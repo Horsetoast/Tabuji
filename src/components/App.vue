@@ -1,36 +1,40 @@
 <template>
-  <div id="wrapper">
-    <div id="word">
-      <h1>{{word.trad}}</h1>
-      <p class="word-pinyin">{{word.pinyin}}</p>
-    </div>
-    <div id="quiz-wrapper">
-      <div id="quiz">
-        <div id="quiz-header">
-          <p v-if="status === 'word_ready'">Choose the correct meaning</p>
-          <p v-else-if="status === 'answered_wrong'">Nopes. Try again?</p>
-          <p v-else-if="status === 'answered_correct'">Correct!</p>
-        </div>
-        <ul id="quiz-options">
-          <li
-            v-for="(option, i) in options"
-            :key="i"
-            class="options-item"
-            :class="{
+  <transition name="fade" appear mode="out-in">
+    <div id="wrapper" v-if="word && options.length" :key="word.trad">
+      <div id="word">
+        <h1>{{word.trad}}</h1>
+        <p class="word-pinyin">{{word.pinyin}}</p>
+      </div>
+      <div id="quiz-wrapper">
+        <div id="quiz">
+          <div id="quiz-header">
+            <transition name="fade" mode="out-in">
+              <p v-if="status === 'word_ready'" key="p1">Choose the correct meaning</p>
+              <p v-else-if="status === 'answered_wrong'" key="p2">Nopes. Try again?</p>
+              <p v-else-if="status === 'answered_correct'" key="p3">Correct!</p>
+            </transition>
+          </div>
+          <ul id="quiz-options">
+            <li
+              v-for="(option, i) in options"
+              :key="i"
+              class="options-item"
+              :class="{
             'answered-wrong': guessed[i] && i !== correctOption,
             'answered-correct': guessed[i] && i === correctOption
           }"
-            @click="chooseAnswer(i)"
-          >
-            <span>{{ option }}</span>
-          </li>
-        </ul>
-      </div>
-      <div id="next-word" @click="nextQuiz" v-show="status === 'answered_correct'">
-        <span>Next word?</span>
+              @click="chooseAnswer(i)"
+            >
+              <span>{{ option }}</span>
+            </li>
+          </ul>
+        </div>
+        <div id="next-word" @click="nextQuiz" v-show="status === 'answered_correct'">
+          <span>Next word?</span>
+        </div>
       </div>
     </div>
-  </div>
+  </transition>
 </template>
 
 <script>
@@ -104,11 +108,14 @@ export default {
       this.options = data.options;
       this.correctOption = data.correctOption;
       this.bgColor = getRandomColor();
+      if (!document.body.style["transition"]) {
+        document.body.style["transition"] = "background-color 1s ease-in";
+      }      
       this.status = "word_ready";
       this.guessed = {};
       this.saveQuiz();
     },
-    clearStoredQuiz () {
+    clearStoredQuiz() {
       chrome.storage.sync.set(
         {
           word: null,
@@ -119,7 +126,7 @@ export default {
         () => {
           console.log("Quiz cleared from storage");
         }
-      );      
+      );
     },
     saveQuiz() {
       chrome.storage.sync.set(
@@ -139,6 +146,50 @@ export default {
 </script>
 
 <style lang="scss">
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+    transform: translateX(-10px)
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0)
+  }
+}
+@keyframes fade-out {
+  0% {
+    opacity: 1;
+    transform: translateX(0)
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(10px)
+  }
+}
+@keyframes shake {
+  20% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40% {
+    transform: translate3d(4px, 0, 0);
+  }
+
+  60% {
+    transform: translate3d(-2px, 0, 0);
+  }
+
+  100% {
+    transform: translate3d(0px, 0, 0);
+  }
+}
+.fade-enter-active {
+  animation: fade-in 0.3s ease-in;
+}
+.fade-leave-active {
+  animation: fade-out 0.3s ease-in;
+}
+
 html,
 body {
   display: flex;
@@ -157,7 +208,7 @@ body {
   color: #fff;
   width: 50%;
   text-align: right;
-  padding: 50px 100px;
+  padding: 50px 100px 50px 0;
   box-sizing: border-box;
   h1 {
     font-size: 5rem;
@@ -199,6 +250,10 @@ body {
     line-height: 1.4rem;
     &.answered-wrong {
       color: #bc3939;
+      span {
+        display: block;
+        animation: shake 0.4s 1;
+      }
     }
     &.answered-correct {
       &:before {
