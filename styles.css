@@ -142,13 +142,13 @@ body {
 }
 
 body {
-  background-image: url('/assets/bcg.jpg');
-  background-position: center center;
-  background-size: cover;
-  background-repeat: no-repeat;
+  /* background-image: url('/assets/bcg.jpg'); */
+  /* background-position: center center; */
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
   font-family: 'Segoe UI', 'DFKai-SB', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+/* 
 #wrapper {
   position: absolute;
   display: flex;
@@ -277,4 +277,4 @@ body {
 
 .hidden {
   display: none;
-}
+} */
