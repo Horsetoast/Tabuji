@@ -29,6 +29,15 @@ const selectBestEntryHelper = (arr) => {
   return arr[longestIndex][0];
 };
 
+const removeUnwantedMeanings = (json) => {
+  const chineseRegex = /[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]/;
+  return json.map(word => ({
+    ...word,
+    meanings: word.meanings.filter(meaning => !meaning.match(chineseRegex)),
+  }))
+    .filter(word => word.meanings.length > 0);
+};
+
 const traverseWords = () => {
   const words = [];
   const vocabulary = dict.words1000.split('\n');
@@ -43,8 +52,9 @@ const traverseWords = () => {
     }
   });
 
+  const revisedWords = removeUnwantedMeanings(words);
 
-  jsonfile.writeFile('./data/words1000.json', words, (err) => {
+  jsonfile.writeFile('./data/words1000.json', revisedWords, (err) => {
     if (err) console.error(err);
   });
 };

@@ -7,17 +7,17 @@
   "trad": "人",
   "simp": "人",
   "pinyin": "rén",
-  "meanings": ["man", "person", "people", "CL:個|个[ge4],位[wei4]"]
+  "meanings": ["man", "person", "people"]
 }, {
   "trad": "里",
   "simp": "里",
   "pinyin": "lǐ",
-  "meanings": ["li, ancient measure of length, approx. 500 m", "neighborhood", "ancient administrative unit of 25 families", "(Tw) borough, administrative unit between the township 鎮|镇[zhen4] and neighborhood 鄰|邻[lin2] levels"]
+  "meanings": ["li, ancient measure of length, approx. 500 m", "neighborhood", "ancient administrative unit of 25 families"]
 }, {
   "trad": "會",
   "simp": "会",
   "pinyin": "huì",
-  "meanings": ["can", "to be possible", "to be able to", "will", "to be likely to", "to be sure to", "to assemble", "to meet", "to gather", "to see", "union", "group", "association", "CL:個|个[ge4]", "a moment (Taiwan pr. for this sense is [hui3])"]
+  "meanings": ["can", "to be possible", "to be able to", "will", "to be likely to", "to be sure to", "to assemble", "to meet", "to gather", "to see", "union", "group", "association", "a moment (Taiwan pr. for this sense is [hui3])"]
 }, {
   "trad": "沒",
   "simp": "没",
@@ -94,11 +94,6 @@
   "pinyin": "wǒ",
   "meanings": ["I", "me", "my"]
 }, {
-  "trad": "你",
-  "simp": "你",
-  "pinyin": "nǐ",
-  "meanings": ["you (informal, as opposed to courteous 您[nin2])"]
-}, {
   "trad": "的",
   "simp": "的",
   "pinyin": "de",
@@ -107,7 +102,7 @@
   "trad": "昰",
   "simp": "是",
   "pinyin": "shì",
-  "meanings": ["variant of 是[shi4]", "(used in given names)"]
+  "meanings": ["(used in given names)"]
 }, {
   "trad": "了",
   "simp": "了",
@@ -122,7 +117,7 @@
   "trad": "么",
   "simp": "幺",
   "pinyin": "yāo",
-  "meanings": ["youngest", "most junior", "tiny", "one (unambiguous spoken form when spelling out numbers, esp. on telephone or in military)", "one or ace on dice or dominoes", "variant of 吆[yao1], to shout"]
+  "meanings": ["youngest", "most junior", "tiny", "one (unambiguous spoken form when spelling out numbers, esp. on telephone or in military)", "one or ace on dice or dominoes"]
 }, {
   "trad": "們",
   "simp": "们",
@@ -137,7 +132,7 @@
   "trad": "說",
   "simp": "说",
   "pinyin": "shuō",
-  "meanings": ["to speak", "to say", "to explain", "to scold", "to tell off", "a theory (typically the last character in a compound, as in 日心說|日心说 heliocentric theory)"]
+  "meanings": ["to speak", "to say", "to explain", "to scold", "to tell off"]
 }, {
   "trad": "為",
   "simp": "为",
@@ -152,7 +147,7 @@
   "trad": "吧",
   "simp": "吧",
   "pinyin": "bā",
-  "meanings": ["bar (loanword) (serving drinks, or providing Internet access etc)", "to puff (on a pipe etc)", "(onom.) bang", "abbr. for 貼吧|贴吧[tie1 ba1]"]
+  "meanings": ["bar (loanword) (serving drinks, or providing Internet access etc)", "to puff (on a pipe etc)", "(onom.) bang"]
 }, {
   "trad": "知道",
   "simp": "知道",
@@ -168,11 +163,6 @@
   "simp": "和",
   "pinyin": "hè",
   "meanings": ["to compose a poem in reply (to sb's poem) using the same rhyme sequence", "to join in the singing", "to chime in with others"]
-}, {
-  "trad": "你",
-  "simp": "你",
-  "pinyin": "nǐ",
-  "meanings": ["you (informal, as opposed to courteous 您[nin2])"]
 }, {
   "trad": "想",
   "simp": "想",
@@ -262,7 +252,7 @@
   "trad": "任",
   "simp": "任",
   "pinyin": "rèn",
-  "meanings": ["to assign", "to appoint", "to take up a post", "office", "responsibility", "to let", "to allow", "to give free rein to", "no matter (how, what etc)", "classifier for terms served in office, or for spouses, girlfriends etc (as in 前任男友)"]
+  "meanings": ["to assign", "to appoint", "to take up a post", "office", "responsibility", "to let", "to allow", "to give free rein to", "no matter (how, what etc)"]
 }, {
   "trad": "生",
   "simp": "生",
@@ -278,11 +268,6 @@
   "simp": "号",
   "pinyin": "hào",
   "meanings": ["ordinal number", "day of a month", "mark", "sign", "business establishment", "size", "ship suffix", "horn (wind instrument)", "bugle call", "assumed name", "to take a pulse", "classifier used to indicate number of people"]
-}, {
-  "trad": "蘭",
-  "simp": "兰",
-  "pinyin": "lán",
-  "meanings": ["orchid (蘭花|兰花 Cymbidium goeringii)", "fragrant thoroughwort (蘭草|兰草 Eupatorium fortunei)", "lily magnolia (木蘭|木兰)"]
 }, {
   "trad": "瑞",
   "simp": "瑞",
@@ -304,11 +289,6 @@
   "pinyin": "yuàn",
   "meanings": ["to hope", "to wish", "to desire", "hoped-for", "ready", "willing"]
 }, {
-  "trad": "蔕",
-  "simp": "蒂",
-  "pinyin": "dì",
-  "meanings": ["variant of 蒂[di4]"]
-}, {
   "trad": "別",
   "simp": "别",
   "pinyin": "bié",
@@ -317,7 +297,7 @@
   "trad": "軍",
   "simp": "军",
   "pinyin": "jūn",
-  "meanings": ["army", "military", "arms", "CL:個|个[ge4]"]
+  "meanings": ["army", "military", "arms"]
 }, {
   "trad": "正",
   "simp": "正",
@@ -332,7 +312,7 @@
   "trad": "證",
   "simp": "证",
   "pinyin": "zhèng",
-  "meanings": ["certificate", "proof", "to prove", "to demonstrate", "to confirm", "variant of 症[zheng4]"]
+  "meanings": ["certificate", "proof", "to prove", "to demonstrate", "to confirm"]
 }, {
   "trad": "不",
   "simp": "不",
@@ -352,12 +332,12 @@
   "trad": "吉",
   "simp": "吉",
   "pinyin": "Jí",
-  "meanings": ["surname Ji", "abbr. for Jilin Province 吉林省[Ji2 lin2 Sheng3]"]
+  "meanings": ["surname Ji"]
 }, {
   "trad": "男",
   "simp": "男",
   "pinyin": "nán",
-  "meanings": ["male", "Baron, lowest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]", "CL:個|个[ge4]"]
+  "meanings": ["male"]
 }, {
   "trad": "告",
   "simp": "告",
@@ -367,7 +347,7 @@
   "trad": "路",
   "simp": "路",
   "pinyin": "lù",
-  "meanings": ["road", "CL:條|条[tiao2]", "journey", "route", "line (bus etc)", "sort", "kind"]
+  "meanings": ["road", "journey", "route", "line (bus etc)", "sort", "kind"]
 }, {
   "trad": "搞",
   "simp": "搞",
@@ -392,7 +372,7 @@
   "trad": "狗",
   "simp": "狗",
   "pinyin": "gǒu",
-  "meanings": ["dog", "CL:隻|只[zhi1],條|条[tiao2]"]
+  "meanings": ["dog"]
 }, {
   "trad": "決",
   "simp": "决",
@@ -402,7 +382,7 @@
   "trad": "金",
   "simp": "金",
   "pinyin": "jīn",
-  "meanings": ["gold", "chemical element Au", "generic term for lustrous and ductile metals", "money", "golden", "highly respected", "one of the eight ancient musical instruments 八音[ba1 yin1]"]
+  "meanings": ["gold", "chemical element Au", "generic term for lustrous and ductile metals", "money", "golden", "highly respected"]
 }, {
   "trad": "史",
   "simp": "史",
@@ -489,11 +469,6 @@
   "pinyin": "kěn dìng",
   "meanings": ["to be certain", "to be positive", "assuredly", "definitely", "to give recognition", "to affirm", "affirmative (answer)"]
 }, {
-  "trad": "女",
-  "simp": "女",
-  "pinyin": "rǔ",
-  "meanings": ["archaic variant of 汝[ru3]"]
-}, {
   "trad": "世",
   "simp": "世",
   "pinyin": "shì",
@@ -518,11 +493,6 @@
   "simp": "不能",
   "pinyin": "bù néng",
   "meanings": ["cannot", "must not", "should not"]
-}, {
-  "trad": "囙",
-  "simp": "因",
-  "pinyin": "yīn",
-  "meanings": ["old variant of 因[yin1]"]
 }, {
   "trad": "覺",
   "simp": "觉",
@@ -562,7 +532,7 @@
   "trad": "機",
   "simp": "机",
   "pinyin": "jī",
-  "meanings": ["machine", "engine", "opportunity", "intention", "aircraft", "pivot", "crucial point", "flexible (quick-witted)", "organic", "CL:臺|台[tai2]"]
+  "meanings": ["machine", "engine", "opportunity", "intention", "aircraft", "pivot", "crucial point", "flexible (quick-witted)", "organic"]
 }, {
   "trad": "來",
   "simp": "来",
@@ -617,12 +587,12 @@
   "trad": "心",
   "simp": "心",
   "pinyin": "xīn",
-  "meanings": ["heart", "mind", "intention", "center", "core", "CL:顆|颗[ke1],個|个[ge4]"]
+  "meanings": ["heart", "mind", "intention", "center", "core"]
 }, {
   "trad": "走",
   "simp": "走",
   "pinyin": "zǒu",
-  "meanings": ["to walk", "to go", "to run", "to move (of vehicle)", "to visit", "to leave", "to go away", "to die (euph.)", "from", "through", "away (in compound verbs, such as 撤走[che4 zou3])", "to change (shape, form, meaning)"]
+  "meanings": ["to walk", "to go", "to run", "to move (of vehicle)", "to visit", "to leave", "to go away", "to die (euph.)", "from", "through", "to change (shape, form, meaning)"]
 }, {
   "trad": "比",
   "simp": "比",
@@ -672,7 +642,7 @@
   "trad": "經",
   "simp": "经",
   "pinyin": "jīng",
-  "meanings": ["classics", "sacred book", "scripture", "to pass through", "to undergo", "to bear", "to endure", "warp (textile)", "longitude", "menstruation", "channel (TCM)", "abbr. for economics 經濟|经济[jing1 ji4]"]
+  "meanings": ["classics", "sacred book", "scripture", "to pass through", "to undergo", "to bear", "to endure", "warp (textile)", "longitude", "menstruation", "channel (TCM)"]
 }, {
   "trad": "媽",
   "simp": "妈",
@@ -717,7 +687,7 @@
   "trad": "國",
   "simp": "国",
   "pinyin": "guó",
-  "meanings": ["country", "nation", "state", "national", "CL:個|个[ge4]"]
+  "meanings": ["country", "nation", "state", "national"]
 }, {
   "trad": "起",
   "simp": "起",
@@ -727,7 +697,7 @@
   "trad": "動",
   "simp": "动",
   "pinyin": "dòng",
-  "meanings": ["(of sth) to move", "to set in movement", "to displace", "to touch", "to make use of", "to stir (emotions)", "to alter", "abbr. for 動詞|动词[dong4 ci2], verb"]
+  "meanings": ["(of sth) to move", "to set in movement", "to displace", "to touch", "to make use of", "to stir (emotions)", "to alter"]
 }, {
   "trad": "殺",
   "simp": "杀",
@@ -737,7 +707,7 @@
   "trad": "于",
   "simp": "于",
   "pinyin": "yú",
-  "meanings": ["to go", "to take", "sentence-final interrogative particle", "variant of 於|于[yu2]"]
+  "meanings": ["to go", "to take", "sentence-final interrogative particle"]
 }, {
   "trad": "種",
   "simp": "种",
@@ -767,7 +737,7 @@
   "trad": "禮",
   "simp": "礼",
   "pinyin": "lǐ",
-  "meanings": ["gift", "rite", "ceremony", "CL:份[fen4]", "propriety", "etiquette", "courtesy"]
+  "meanings": ["gift", "rite", "ceremony", "propriety", "etiquette", "courtesy"]
 }, {
   "trad": "幹",
   "simp": "干",
@@ -807,7 +777,7 @@
   "trad": "神",
   "simp": "神",
   "pinyin": "shén",
-  "meanings": ["deity", "soul", "spirit", "unusual", "mysterious", "lively", "expressive", "expression", "look", "CL:個|个[ge4]", "(slang) awesome", "amazing"]
+  "meanings": ["deity", "soul", "spirit", "unusual", "mysterious", "lively", "expressive", "expression", "look", "(slang) awesome", "amazing"]
 }, {
   "trad": "多",
   "simp": "多",
@@ -817,7 +787,7 @@
   "trad": "海",
   "simp": "海",
   "pinyin": "hǎi",
-  "meanings": ["ocean", "sea", "CL:個|个[ge4],片[pian4]", "great number of people or things", "(dialect) numerous"]
+  "meanings": ["ocean", "sea", "great number of people or things", "(dialect) numerous"]
 }, {
   "trad": "每",
   "simp": "每",
@@ -837,7 +807,7 @@
   "trad": "走",
   "simp": "走",
   "pinyin": "zǒu",
-  "meanings": ["to walk", "to go", "to run", "to move (of vehicle)", "to visit", "to leave", "to go away", "to die (euph.)", "from", "through", "away (in compound verbs, such as 撤走[che4 zou3])", "to change (shape, form, meaning)"]
+  "meanings": ["to walk", "to go", "to run", "to move (of vehicle)", "to visit", "to leave", "to go away", "to die (euph.)", "from", "through", "to change (shape, form, meaning)"]
 }, {
   "trad": "好",
   "simp": "好",
@@ -847,22 +817,17 @@
   "trad": "單",
   "simp": "单",
   "pinyin": "dān",
-  "meanings": ["bill", "list", "form", "single", "only", "sole", "odd number", "CL:個|个[ge4]"]
+  "meanings": ["bill", "list", "form", "single", "only", "sole", "odd number"]
 }, {
   "trad": "公",
   "simp": "公",
   "pinyin": "gōng",
-  "meanings": ["public", "collectively owned", "common", "international (e.g. high seas, metric system, calendar)", "make public", "fair", "just", "Duke, highest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]", "honorable (gentlemen)", "father-in-law", "male (animal)"]
+  "meanings": ["public", "collectively owned", "common", "international (e.g. high seas, metric system, calendar)", "make public", "fair", "just", "honorable (gentlemen)", "father-in-law", "male (animal)"]
 }, {
   "trad": "林",
   "simp": "林",
   "pinyin": "lín",
-  "meanings": ["woods", "forest", "CL:片[pian4]", "circle(s) (i.e. specific group of people)", "a collection (of similar things)"]
-}, {
-  "trad": "女",
-  "simp": "女",
-  "pinyin": "rǔ",
-  "meanings": ["archaic variant of 汝[ru3]"]
+  "meanings": ["woods", "forest", "circle(s) (i.e. specific group of people)", "a collection (of similar things)"]
 }, {
   "trad": "忙",
   "simp": "忙",
@@ -877,17 +842,17 @@
   "trad": "鐘",
   "simp": "钟",
   "pinyin": "zhōng",
-  "meanings": ["clock", "o'clock", "time as measured in hours and minutes", "bell", "CL:架[jia4],座[zuo4]"]
+  "meanings": ["clock", "o'clock", "time as measured in hours and minutes", "bell"]
 }, {
   "trad": "家",
   "simp": "家",
   "pinyin": "jiā",
-  "meanings": ["home", "family", "(polite) my (sister, uncle etc)", "classifier for families or businesses", "refers to the philosophical schools of pre-Han China", "noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian", "CL:個|个[ge4]"]
+  "meanings": ["home", "family", "(polite) my (sister, uncle etc)", "classifier for families or businesses", "refers to the philosophical schools of pre-Han China", "noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian"]
 }, {
   "trad": "科",
   "simp": "科",
   "pinyin": "kē",
-  "meanings": ["branch of study", "administrative section", "division", "field", "branch", "stage directions", "family (taxonomy)", "rules", "laws", "to mete out (punishment)", "to levy (taxes etc)", "to fine sb", "CL:個|个[ge4]"]
+  "meanings": ["branch of study", "administrative section", "division", "field", "branch", "stage directions", "family (taxonomy)", "rules", "laws", "to mete out (punishment)", "to levy (taxes etc)", "to fine sb"]
 }, {
   "trad": "回",
   "simp": "回",
@@ -932,7 +897,7 @@
   "trad": "船",
   "simp": "船",
   "pinyin": "chuán",
-  "meanings": ["boat", "vessel", "ship", "CL:條|条[tiao2],艘[sou1],隻|只[zhi1]"]
+  "meanings": ["boat", "vessel", "ship"]
 }, {
   "trad": "永",
   "simp": "永",
@@ -967,12 +932,12 @@
   "trad": "風",
   "simp": "风",
   "pinyin": "fēng",
-  "meanings": ["wind", "news", "style", "custom", "manner", "CL:陣|阵[zhen4],絲|丝[si1]"]
+  "meanings": ["wind", "news", "style", "custom", "manner"]
 }, {
   "trad": "皮",
   "simp": "皮",
   "pinyin": "pí",
-  "meanings": ["leather", "skin", "fur", "CL:張|张[zhang1]", "pico- (one trillionth)", "naughty"]
+  "meanings": ["leather", "skin", "fur", "pico- (one trillionth)", "naughty"]
 }, {
   "trad": "威",
   "simp": "威",
@@ -987,7 +952,7 @@
   "trad": "魯",
   "simp": "鲁",
   "pinyin": "Lǔ",
-  "meanings": ["surname Lu", "Shandong Province 山東省|山东省[Shan1 dong1 Sheng3]", "vassal state during the Zhou Dynasty (1066-221 BC) in modern day Shandong Province"]
+  "meanings": ["surname Lu", "vassal state during the Zhou Dynasty (1066-221 BC) in modern day Shandong Province"]
 }, {
   "trad": "轉",
   "simp": "转",
@@ -1037,7 +1002,7 @@
   "trad": "事",
   "simp": "事",
   "pinyin": "shì",
-  "meanings": ["matter", "thing", "item", "work", "affair", "CL:件[jian4],樁|桩[zhuang1],回[hui2]"]
+  "meanings": ["matter", "thing", "item", "work", "affair"]
 }, {
   "trad": "屑",
   "simp": "屑",
@@ -1047,12 +1012,12 @@
   "trad": "希望",
   "simp": "希望",
   "pinyin": "xī wàng",
-  "meanings": ["to wish for", "to desire", "hope", "CL:個|个[ge4]"]
+  "meanings": ["to wish for", "to desire", "hope"]
 }, {
   "trad": "所",
   "simp": "所",
   "pinyin": "suǒ",
-  "meanings": ["actually", "place", "classifier for houses, small buildings, institutions etc", "that which", "particle introducing a relative clause or passive", "CL:個|个[ge4]"]
+  "meanings": ["actually", "place", "classifier for houses, small buildings, institutions etc", "that which", "particle introducing a relative clause or passive"]
 }, {
   "trad": "褉",
   "simp": "褉",
@@ -1092,7 +1057,7 @@
   "trad": "給",
   "simp": "给",
   "pinyin": "gěi",
-  "meanings": ["to", "for", "for the benefit of", "to give", "to allow", "to do sth (for sb)", "(grammatical equivalent of 被)", "(grammatical equivalent of 把)", "(sentence intensifier)"]
+  "meanings": ["to", "for", "for the benefit of", "to give", "to allow", "to do sth (for sb)", "(sentence intensifier)"]
 }, {
   "trad": "然後",
   "simp": "然后",
@@ -1127,7 +1092,7 @@
   "trad": "題",
   "simp": "题",
   "pinyin": "tí",
-  "meanings": ["topic", "problem for discussion", "exam question", "subject", "to inscribe", "to mention", "CL:個|个[ge4],道[dao4]"]
+  "meanings": ["topic", "problem for discussion", "exam question", "subject", "to inscribe", "to mention"]
 }, {
   "trad": "放",
   "simp": "放",
@@ -1137,17 +1102,12 @@
   "trad": "讓",
   "simp": "让",
   "pinyin": "ràng",
-  "meanings": ["to yield", "to permit", "to let sb do sth", "to have sb do sth", "to make sb (feel sad etc)", "by (indicates the agent in a passive clause, like 被[bei4])"]
-}, {
-  "trad": "确",
-  "simp": "确",
-  "pinyin": "què",
-  "meanings": ["variant of 確|确[que4]", "variant of 埆[que4]"]
+  "meanings": ["to yield", "to permit", "to let sb do sth", "to have sb do sth", "to make sb (feel sad etc)"]
 }, {
   "trad": "意思",
   "simp": "意思",
   "pinyin": "yì si",
-  "meanings": ["idea", "opinion", "meaning", "wish", "desire", "interest", "fun", "token of appreciation, affection etc", "CL:個|个[ge4]", "to give as a small token", "to do sth as a gesture of goodwill etc"]
+  "meanings": ["idea", "opinion", "meaning", "wish", "desire", "interest", "fun", "token of appreciation, affection etc", "to give as a small token", "to do sth as a gesture of goodwill etc"]
 }, {
   "trad": "成",
   "simp": "成",
@@ -1157,7 +1117,7 @@
   "trad": "所",
   "simp": "所",
   "pinyin": "suǒ",
-  "meanings": ["actually", "place", "classifier for houses, small buildings, institutions etc", "that which", "particle introducing a relative clause or passive", "CL:個|个[ge4]"]
+  "meanings": ["actually", "place", "classifier for houses, small buildings, institutions etc", "that which", "particle introducing a relative clause or passive"]
 }, {
   "trad": "喜",
   "simp": "喜",
@@ -1172,7 +1132,7 @@
   "trad": "之",
   "simp": "之",
   "pinyin": "zhī",
-  "meanings": ["(possessive particle, literary equivalent of 的[de5])", "him", "her", "it"]
+  "meanings": ["him", "her", "it"]
 }, {
   "trad": "一",
   "simp": "一",
@@ -1207,7 +1167,7 @@
   "trad": "錢",
   "simp": "钱",
   "pinyin": "qián",
-  "meanings": ["coin", "money", "CL:筆|笔[bi3]", "unit of weight, one tenth of a tael 兩|两[liang3]"]
+  "meanings": ["coin", "money"]
 }, {
   "trad": "面",
   "simp": "面",
@@ -1232,12 +1192,7 @@
   "trad": "邊",
   "simp": "边",
   "pinyin": "biān",
-  "meanings": ["side", "edge", "margin", "border", "boundary", "CL:個|个[ge4]", "simultaneously"]
-}, {
-  "trad": "你",
-  "simp": "你",
-  "pinyin": "nǐ",
-  "meanings": ["you (informal, as opposed to courteous 您[nin2])"]
+  "meanings": ["side", "edge", "margin", "border", "boundary", "simultaneously"]
 }, {
   "trad": "不",
   "simp": "不",
@@ -1267,7 +1222,7 @@
   "trad": "點",
   "simp": "点",
   "pinyin": "diǎn",
-  "meanings": ["point", "dot", "drop", "speck", "o'clock", "point (in space or time)", "to draw a dot", "to check on a list", "to choose", "to order (food in a restaurant)", "to touch briefly", "to hint", "to light", "to ignite", "to pour a liquid drop by drop", "(old) one fifth of a two-hour watch 更[geng1]", "dot stroke in Chinese characters", "classifier for items"]
+  "meanings": ["point", "dot", "drop", "speck", "o'clock", "point (in space or time)", "to draw a dot", "to check on a list", "to choose", "to order (food in a restaurant)", "to touch briefly", "to hint", "to light", "to ignite", "to pour a liquid drop by drop", "dot stroke in Chinese characters", "classifier for items"]
 }, {
   "trad": "普",
   "simp": "普",
@@ -1292,7 +1247,7 @@
   "trad": "線",
   "simp": "线",
   "pinyin": "xiàn",
-  "meanings": ["thread", "string", "wire", "line", "CL:條|条[tiao2],股[gu3],根[gen1]"]
+  "meanings": ["thread", "string", "wire", "line"]
 }, {
   "trad": "很",
   "simp": "很",
@@ -1313,11 +1268,6 @@
   "simp": "束",
   "pinyin": "shù",
   "meanings": ["to bind", "bunch", "bundle", "classifier for bunches, bundles, beams of light etc", "to control"]
-}, {
-  "trad": "哇",
-  "simp": "哇",
-  "pinyin": "wa",
-  "meanings": ["replaces 啊[a5] when following the vowel \"u\" or \"ao\""]
 }, {
   "trad": "指",
   "simp": "指",
@@ -1357,7 +1307,7 @@
   "trad": "根",
   "simp": "根",
   "pinyin": "gēn",
-  "meanings": ["root", "basis", "classifier for long slender objects, e.g. cigarettes, guitar strings", "CL:條|条[tiao2]", "radical (chemistry)"]
+  "meanings": ["root", "basis", "classifier for long slender objects, e.g. cigarettes, guitar strings", "radical (chemistry)"]
 }, {
   "trad": "聯",
   "simp": "联",
@@ -1388,11 +1338,6 @@
   "simp": "自",
   "pinyin": "zì",
   "meanings": ["self", "oneself", "from", "since", "naturally", "surely"]
-}, {
-  "trad": "咲",
-  "simp": "笑",
-  "pinyin": "xiào",
-  "meanings": ["old variant of 笑[xiao4]"]
 }, {
   "trad": "閉",
   "simp": "闭",
@@ -1432,17 +1377,17 @@
   "trad": "女士",
   "simp": "女士",
   "pinyin": "nu:3 shì",
-  "meanings": ["lady", "madam", "CL:個|个[ge4],位[wei4]", "Miss", "Ms"]
+  "meanings": ["lady", "madam", "Miss", "Ms"]
 }, {
   "trad": "校",
   "simp": "校",
   "pinyin": "xiào",
-  "meanings": ["school", "military officer", "CL:所[suo3]"]
+  "meanings": ["school", "military officer"]
 }, {
   "trad": "公",
   "simp": "公",
   "pinyin": "gōng",
-  "meanings": ["public", "collectively owned", "common", "international (e.g. high seas, metric system, calendar)", "make public", "fair", "just", "Duke, highest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]", "honorable (gentlemen)", "father-in-law", "male (animal)"]
+  "meanings": ["public", "collectively owned", "common", "international (e.g. high seas, metric system, calendar)", "make public", "fair", "just", "honorable (gentlemen)", "father-in-law", "male (animal)"]
 }, {
   "trad": "況",
   "simp": "况",
@@ -1462,7 +1407,7 @@
   "trad": "英",
   "simp": "英",
   "pinyin": "Yīng",
-  "meanings": ["United Kingdom", "British", "England", "English", "abbr. for 英國|英国[Ying1 guo2]"]
+  "meanings": ["United Kingdom", "British", "England", "English"]
 }, {
   "trad": "警",
   "simp": "警",
@@ -1487,12 +1432,12 @@
   "trad": "坐",
   "simp": "坐",
   "pinyin": "zuò",
-  "meanings": ["to sit", "to take a seat", "to take (a bus, airplane etc)", "to bear fruit", "variant of 座[zuo4]"]
+  "meanings": ["to sit", "to take a seat", "to take (a bus, airplane etc)", "to bear fruit"]
 }, {
   "trad": "區",
   "simp": "区",
   "pinyin": "qū",
-  "meanings": ["area", "region", "district", "small", "distinguish", "CL:個|个[ge4]"]
+  "meanings": ["area", "region", "district", "small", "distinguish"]
 }, {
   "trad": "果",
   "simp": "果",
@@ -1507,7 +1452,7 @@
   "trad": "哈",
   "simp": "哈",
   "pinyin": "hā",
-  "meanings": ["(interj.) ha!", "(onom. for laughter)", "(slang) to be infatuated with", "to adore", "abbr. for 哈士奇[ha1 shi4 qi2], husky (dog)"]
+  "meanings": ["(interj.) ha!", "(onom. for laughter)", "(slang) to be infatuated with", "to adore"]
 }, {
   "trad": "羅",
   "simp": "罗",
@@ -1522,7 +1467,7 @@
   "trad": "兩",
   "simp": "两",
   "pinyin": "liǎng",
-  "meanings": ["two", "both", "some", "a few", "tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jin1] (old)"]
+  "meanings": ["two", "both", "some", "a few"]
 }, {
   "trad": "一",
   "simp": "一",
@@ -1539,11 +1484,6 @@
   "pinyin": "zì",
   "meanings": ["self", "oneself", "from", "since", "naturally", "surely"]
 }, {
-  "trad": "女",
-  "simp": "女",
-  "pinyin": "rǔ",
-  "meanings": ["archaic variant of 汝[ru3]"]
-}, {
   "trad": "向",
   "simp": "向",
   "pinyin": "xiàng",
@@ -1557,7 +1497,7 @@
   "trad": "走",
   "simp": "走",
   "pinyin": "zǒu",
-  "meanings": ["to walk", "to go", "to run", "to move (of vehicle)", "to visit", "to leave", "to go away", "to die (euph.)", "from", "through", "away (in compound verbs, such as 撤走[che4 zou3])", "to change (shape, form, meaning)"]
+  "meanings": ["to walk", "to go", "to run", "to move (of vehicle)", "to visit", "to leave", "to go away", "to die (euph.)", "from", "through", "to change (shape, form, meaning)"]
 }, {
   "trad": "脅",
   "simp": "胁",
@@ -1567,7 +1507,7 @@
   "trad": "明",
   "simp": "明",
   "pinyin": "Míng",
-  "meanings": ["Ming Dynasty (1368-1644)", "surname Ming", "Ming (c. 2000 BC), fourth of the legendary Flame Emperors, 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God"]
+  "meanings": ["Ming Dynasty (1368-1644)", "surname Ming"]
 }, {
   "trad": "理",
   "simp": "理",
@@ -1577,12 +1517,12 @@
   "trad": "加",
   "simp": "加",
   "pinyin": "jiā",
-  "meanings": ["to add", "plus", "(used after an adverb such as 不, 大, 稍 etc, and before a disyllabic verb, to indicate that the action of the verb is applied to sth or sb previously mentioned)", "to apply (restrictions etc) to (sb)", "to give (support, consideration etc) to (sth)"]
+  "meanings": ["to add", "plus", "to apply (restrictions etc) to (sb)", "to give (support, consideration etc) to (sth)"]
 }, {
   "trad": "槍",
   "simp": "枪",
   "pinyin": "qiāng",
-  "meanings": ["gun", "firearm", "rifle", "spear", "thing with shape or function similar to a gun", "CL:支[zhi1],把[ba3],桿|杆[gan3],條|条[tiao2],枝[zhi1]", "to substitute for another person in a test", "to knock", "classifier for rifle shots"]
+  "meanings": ["gun", "firearm", "rifle", "spear", "thing with shape or function similar to a gun", "to substitute for another person in a test", "to knock", "classifier for rifle shots"]
 }, {
   "trad": "萬",
   "simp": "万",
@@ -1597,7 +1537,7 @@
   "trad": "妳",
   "simp": "妳",
   "pinyin": "nǐ",
-  "meanings": ["you (female)", "variant of 你[ni3]"]
+  "meanings": ["you (female)"]
 }, {
   "trad": "玩",
   "simp": "玩",
@@ -1617,7 +1557,7 @@
   "trad": "巴",
   "simp": "巴",
   "pinyin": "bā",
-  "meanings": ["to long for", "to wish", "to cling to", "to stick to", "sth that sticks", "close to", "next to", "spread open", "informal abbr. for bus 巴士[ba1 shi4]", "bar (unit of pressure)", "nominalizing suffix on certain nouns, such as 尾巴[wei3 ba5], tail"]
+  "meanings": ["to long for", "to wish", "to cling to", "to stick to", "sth that sticks", "close to", "next to", "spread open", "bar (unit of pressure)"]
 }, {
   "trad": "而",
   "simp": "而",
@@ -1627,7 +1567,7 @@
   "trad": "物",
   "simp": "物",
   "pinyin": "wù",
-  "meanings": ["thing", "object", "matter", "abbr. for physics 物理"]
+  "meanings": ["thing", "object", "matter"]
 }, {
   "trad": "傷",
   "simp": "伤",
@@ -1637,12 +1577,12 @@
   "trad": "官",
   "simp": "官",
   "pinyin": "guān",
-  "meanings": ["government official", "governmental", "official", "public", "organ of the body", "CL:個|个[ge4]"]
+  "meanings": ["government official", "governmental", "official", "public", "organ of the body"]
 }, {
   "trad": "道",
   "simp": "道",
   "pinyin": "dào",
-  "meanings": ["road", "path", "CL:條|条[tiao2],股[gu3]", "principle", "truth", "morality", "reason", "skill", "method", "Dao (of Daoism)", "to say", "to speak", "to talk", "classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process", "(old) administrative division (similar to province in Tang times)"]
+  "meanings": ["road", "path", "principle", "truth", "morality", "reason", "skill", "method", "Dao (of Daoism)", "to say", "to speak", "to talk", "classifier for long thin things (rivers, cracks etc), barriers (walls, doors etc), questions (in an exam etc), commands, courses in a meal, steps in a process", "(old) administrative division (similar to province in Tang times)"]
 }, {
   "trad": "出",
   "simp": "出",
@@ -1662,7 +1602,7 @@
   "trad": "者",
   "simp": "者",
   "pinyin": "zhě",
-  "meanings": ["(after a verb or adjective) one who (is) ...", "(after a noun) person involved in ...", "-er", "-ist", "(used after a number or 後|后[hou4] or 前[qian2] to refer to sth mentioned previously)", "(used after a term, to mark a pause before defining the term)", "(old) (used at the end of a command)", "(old) this"]
+  "meanings": ["(after a verb or adjective) one who (is) ...", "(after a noun) person involved in ...", "-er", "-ist", "(used after a term, to mark a pause before defining the term)", "(old) (used at the end of a command)", "(old) this"]
 }, {
   "trad": "先",
   "simp": "先",
@@ -1692,7 +1632,7 @@
   "trad": "報",
   "simp": "报",
   "pinyin": "bào",
-  "meanings": ["to announce", "to inform", "report", "newspaper", "recompense", "revenge", "CL:份[fen4],張|张[zhang1]"]
+  "meanings": ["to announce", "to inform", "report", "newspaper", "recompense", "revenge"]
 }, {
   "trad": "名",
   "simp": "名",
@@ -1702,7 +1642,7 @@
   "trad": "將",
   "simp": "将",
   "pinyin": "jiāng",
-  "meanings": ["will", "shall", "to use", "to take", "to checkmate", "just a short while ago", "(introduces object of main verb, used in the same way as 把[ba3])"]
+  "meanings": ["will", "shall", "to use", "to take", "to checkmate", "just a short while ago"]
 }, {
   "trad": "迪",
   "simp": "迪",
@@ -1722,12 +1662,12 @@
   "trad": "新",
   "simp": "新",
   "pinyin": "Xīn",
-  "meanings": ["abbr. for Xinjiang 新疆[Xin1 jiang1] or Singapore 新加坡[Xin1 jia1 po1]", "surname Xin"]
+  "meanings": ["surname Xin"]
 }, {
   "trad": "隊",
   "simp": "队",
   "pinyin": "duì",
-  "meanings": ["squadron", "team", "group", "CL:個|个[ge4]"]
+  "meanings": ["squadron", "team", "group"]
 }, {
   "trad": "識",
   "simp": "识",
@@ -1742,12 +1682,7 @@
   "trad": "眼",
   "simp": "眼",
   "pinyin": "yǎn",
-  "meanings": ["eye", "small hole", "crux (of a matter)", "CL:隻|只[zhi1],雙|双[shuang1]", "classifier for big hollow things (wells, stoves, pots etc)"]
-}, {
-  "trad": "媽的",
-  "simp": "妈的",
-  "pinyin": "mā de",
-  "meanings": ["see 他媽的|他妈的[ta1 ma1 de5]"]
+  "meanings": ["eye", "small hole", "crux (of a matter)", "classifier for big hollow things (wells, stoves, pots etc)"]
 }, {
   "trad": "第",
   "simp": "第",
@@ -1757,7 +1692,7 @@
   "trad": "離",
   "simp": "离",
   "pinyin": "lí",
-  "meanings": ["to leave", "to part from", "to be away from", "(in giving distances) from", "without (sth)", "independent of", "one of the Eight Trigrams 八卦[ba1 gua4], symbolizing fire", "☲"]
+  "meanings": ["to leave", "to part from", "to be away from", "(in giving distances) from", "without (sth)", "independent of", "☲"]
 }, {
   "trad": "忘",
   "simp": "忘",
@@ -1787,7 +1722,7 @@
   "trad": "帶",
   "simp": "带",
   "pinyin": "dài",
-  "meanings": ["band", "belt", "girdle", "ribbon", "tire", "area", "zone", "region", "CL:條|条[tiao2]", "to wear", "to carry", "to take along", "to bear (i.e. to have)", "to lead", "to bring", "to look after", "to raise"]
+  "meanings": ["band", "belt", "girdle", "ribbon", "tire", "area", "zone", "region", "to wear", "to carry", "to take along", "to bear (i.e. to have)", "to lead", "to bring", "to look after", "to raise"]
 }, {
   "trad": "趕",
   "simp": "赶",
@@ -1802,7 +1737,7 @@
   "trad": "髴",
   "simp": "佛",
   "pinyin": "fú",
-  "meanings": ["(female) head ornament", "variant of 彿|佛[fu2]"]
+  "meanings": ["(female) head ornament"]
 }, {
   "trad": "直",
   "simp": "直",
@@ -1832,12 +1767,12 @@
   "trad": "承",
   "simp": "承",
   "pinyin": "Chéng",
-  "meanings": ["surname Cheng", "Cheng (c. 2000 BC), third of the legendary Flame Emperors 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God"]
+  "meanings": ["surname Cheng"]
 }, {
   "trad": "泰",
   "simp": "泰",
   "pinyin": "Tài",
-  "meanings": ["Mt Tai 泰山[Tai4 Shan1] in Shandong", "abbr. for Thailand"]
+  "meanings": ["abbr. for Thailand"]
 }, {
   "trad": "建",
   "simp": "建",
@@ -1847,7 +1782,7 @@
   "trad": "歐",
   "simp": "欧",
   "pinyin": "ōu",
-  "meanings": ["(used for transliteration)", "old variant of 謳|讴[ou1]"]
+  "meanings": ["(used for transliteration)"]
 }, {
   "trad": "然後",
   "simp": "然后",
@@ -1857,7 +1792,7 @@
   "trad": "級",
   "simp": "级",
   "pinyin": "jí",
-  "meanings": ["level", "grade", "rank", "step (of stairs)", "CL:個|个[ge4]", "classifier: step, level"]
+  "meanings": ["level", "grade", "rank", "step (of stairs)", "classifier: step, level"]
 }, {
   "trad": "昨晚",
   "simp": "昨晚",
@@ -1867,12 +1802,12 @@
   "trad": "石",
   "simp": "石",
   "pinyin": "shí",
-  "meanings": ["rock", "stone", "stone inscription", "one of the eight ancient musical instruments 八音[ba1 yin1]"]
+  "meanings": ["rock", "stone", "stone inscription"]
 }, {
   "trad": "有了",
   "simp": "有了",
   "pinyin": "yǒu le",
-  "meanings": ["I've got a solution!", "to have a bun in the oven (abbr. for 有了胎[you3 le5 tai1])"]
+  "meanings": ["I've got a solution!"]
 }, {
   "trad": "都",
   "simp": "都",
@@ -1894,11 +1829,6 @@
   "pinyin": "sī",
   "meanings": ["to think", "to consider"]
 }, {
-  "trad": "啥",
-  "simp": "啥",
-  "pinyin": "shá",
-  "meanings": ["dialectal equivalent of 什麼|什么[shen2 me5]"]
-}, {
   "trad": "過",
   "simp": "过",
   "pinyin": "guò",
@@ -1917,12 +1847,12 @@
   "trad": "任",
   "simp": "任",
   "pinyin": "rèn",
-  "meanings": ["to assign", "to appoint", "to take up a post", "office", "responsibility", "to let", "to allow", "to give free rein to", "no matter (how, what etc)", "classifier for terms served in office, or for spouses, girlfriends etc (as in 前任男友)"]
+  "meanings": ["to assign", "to appoint", "to take up a post", "office", "responsibility", "to let", "to allow", "to give free rein to", "no matter (how, what etc)"]
 }, {
   "trad": "城",
   "simp": "城",
   "pinyin": "chéng",
-  "meanings": ["city walls", "city", "town", "CL:座[zuo4],道[dao4],個|个[ge4]"]
+  "meanings": ["city walls", "city", "town"]
 }, {
   "trad": "死",
   "simp": "死",
@@ -1967,7 +1897,7 @@
   "trad": "市",
   "simp": "市",
   "pinyin": "shì",
-  "meanings": ["market", "city", "CL:個|个[ge4]"]
+  "meanings": ["market", "city"]
 }, {
   "trad": "六",
   "simp": "六",
@@ -2017,7 +1947,7 @@
   "trad": "警察",
   "simp": "警察",
   "pinyin": "jǐng chá",
-  "meanings": ["police", "police officer", "CL:個|个[ge4]"]
+  "meanings": ["police", "police officer"]
 }, {
   "trad": "件",
   "simp": "件",
@@ -2032,12 +1962,12 @@
   "trad": "兄弟",
   "simp": "兄弟",
   "pinyin": "xiōng dì",
-  "meanings": ["brothers", "younger brother", "CL:個|个[ge4]", "I, me (humble term used by men in public speech)", "brotherly", "fraternal"]
+  "meanings": ["brothers", "younger brother", "I, me (humble term used by men in public speech)", "brotherly", "fraternal"]
 }, {
   "trad": "之",
   "simp": "之",
   "pinyin": "zhī",
-  "meanings": ["(possessive particle, literary equivalent of 的[de5])", "him", "her", "it"]
+  "meanings": ["him", "her", "it"]
 }, {
   "trad": "談",
   "simp": "谈",
@@ -2057,7 +1987,7 @@
   "trad": "伊",
   "simp": "伊",
   "pinyin": "Yī",
-  "meanings": ["surname Yi", "abbr. for 伊拉克[Yi1 la1 ke4], Iraq", "abbr. for 伊朗[Yi1 lang3], Iran"]
+  "meanings": ["surname Yi"]
 }, {
   "trad": "以",
   "simp": "以",
@@ -2067,7 +1997,7 @@
   "trad": "房",
   "simp": "房",
   "pinyin": "fáng",
-  "meanings": ["house", "room", "CL:間|间[jian1]", "branch of an extended family", "classifier for family members (or concubines)"]
+  "meanings": ["house", "room", "branch of an extended family", "classifier for family members (or concubines)"]
 }, {
   "trad": "婚",
   "simp": "婚",
@@ -2152,7 +2082,7 @@
   "trad": "維",
   "simp": "维",
   "pinyin": "wéi",
-  "meanings": ["to preserve", "to maintain", "to hold together", "dimension", "vitamin (abbr. for 維生素|维生素[wei2 sheng1 su4])"]
+  "meanings": ["to preserve", "to maintain", "to hold together", "dimension"]
 }, {
   "trad": "條",
   "simp": "条",
@@ -2162,7 +2092,7 @@
   "trad": "明",
   "simp": "明",
   "pinyin": "Míng",
-  "meanings": ["Ming Dynasty (1368-1644)", "surname Ming", "Ming (c. 2000 BC), fourth of the legendary Flame Emperors, 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God"]
+  "meanings": ["Ming Dynasty (1368-1644)", "surname Ming"]
 }, {
   "trad": "不",
   "simp": "不",
@@ -2192,7 +2122,7 @@
   "trad": "塔",
   "simp": "塔",
   "pinyin": "tǎ",
-  "meanings": ["pagoda", "tower", "minaret", "stupa (abbr. loanword from Sanskrit tapo)", "CL:座[zuo4]"]
+  "meanings": ["pagoda", "tower", "minaret", "stupa (abbr. loanword from Sanskrit tapo)"]
 }, {
   "trad": "運",
   "simp": "运",
@@ -2207,7 +2137,7 @@
   "trad": "球",
   "simp": "球",
   "pinyin": "qiú",
-  "meanings": ["ball", "sphere", "globe", "CL:個|个[ge4]", "ball game", "match", "CL:場|场[chang3]"]
+  "meanings": ["ball", "sphere", "globe", "ball game", "match"]
 }, {
   "trad": "得",
   "simp": "得",
@@ -2262,7 +2192,7 @@
   "trad": "驩",
   "simp": "欢",
   "pinyin": "huān",
-  "meanings": ["a breed of horse", "variant of 歡|欢[huan1]"]
+  "meanings": ["a breed of horse"]
 }, {
   "trad": "很",
   "simp": "很",
@@ -2297,7 +2227,7 @@
   "trad": "離",
   "simp": "离",
   "pinyin": "lí",
-  "meanings": ["to leave", "to part from", "to be away from", "(in giving distances) from", "without (sth)", "independent of", "one of the Eight Trigrams 八卦[ba1 gua4], symbolizing fire", "☲"]
+  "meanings": ["to leave", "to part from", "to be away from", "(in giving distances) from", "without (sth)", "independent of", "☲"]
 }, {
   "trad": "找",
   "simp": "找",
@@ -2322,7 +2252,7 @@
   "trad": "馬",
   "simp": "马",
   "pinyin": "mǎ",
-  "meanings": ["horse", "CL:匹[pi3]", "horse or cavalry piece in Chinese chess", "knight in Western chess"]
+  "meanings": ["horse", "horse or cavalry piece in Chinese chess", "knight in Western chess"]
 }, {
   "trad": "以",
   "simp": "以",
@@ -2337,7 +2267,7 @@
   "trad": "所",
   "simp": "所",
   "pinyin": "suǒ",
-  "meanings": ["actually", "place", "classifier for houses, small buildings, institutions etc", "that which", "particle introducing a relative clause or passive", "CL:個|个[ge4]"]
+  "meanings": ["actually", "place", "classifier for houses, small buildings, institutions etc", "that which", "particle introducing a relative clause or passive"]
 }, {
   "trad": "關",
   "simp": "关",
@@ -2362,7 +2292,7 @@
   "trad": "家",
   "simp": "家",
   "pinyin": "jiā",
-  "meanings": ["home", "family", "(polite) my (sister, uncle etc)", "classifier for families or businesses", "refers to the philosophical schools of pre-Han China", "noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian", "CL:個|个[ge4]"]
+  "meanings": ["home", "family", "(polite) my (sister, uncle etc)", "classifier for families or businesses", "refers to the philosophical schools of pre-Han China", "noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian"]
 }, {
   "trad": "拉",
   "simp": "拉",
@@ -2382,17 +2312,17 @@
   "trad": "說",
   "simp": "说",
   "pinyin": "shuō",
-  "meanings": ["to speak", "to say", "to explain", "to scold", "to tell off", "a theory (typically the last character in a compound, as in 日心說|日心说 heliocentric theory)"]
+  "meanings": ["to speak", "to say", "to explain", "to scold", "to tell off"]
 }, {
   "trad": "手",
   "simp": "手",
   "pinyin": "shǒu",
-  "meanings": ["hand", "(formal) to hold", "person engaged in certain types of work", "person skilled in certain types of work", "personal(ly)", "convenient", "classifier for skill", "CL:雙|双[shuang1],隻|只[zhi1]"]
+  "meanings": ["hand", "(formal) to hold", "person engaged in certain types of work", "person skilled in certain types of work", "personal(ly)", "convenient", "classifier for skill"]
 }, {
   "trad": "法",
   "simp": "法",
   "pinyin": "Fǎ",
-  "meanings": ["France", "French", "abbr. for 法國|法国[Fa3 guo2]", "Taiwan pr. [Fa4]"]
+  "meanings": ["France", "French", "Taiwan pr. [Fa4]"]
 }, {
   "trad": "噢",
   "simp": "噢",
@@ -2407,7 +2337,7 @@
   "trad": "頭",
   "simp": "头",
   "pinyin": "tóu",
-  "meanings": ["head", "hair style", "the top", "end", "beginning or end", "a stub", "remnant", "chief", "boss", "side", "aspect", "first", "leading", "classifier for pigs or livestock", "CL:個|个[ge4]"]
+  "meanings": ["head", "hair style", "the top", "end", "beginning or end", "a stub", "remnant", "chief", "boss", "side", "aspect", "first", "leading", "classifier for pigs or livestock"]
 }, {
   "trad": "無",
   "simp": "无",
@@ -2422,12 +2352,12 @@
   "trad": "工作",
   "simp": "工作",
   "pinyin": "gōng zuò",
-  "meanings": ["to work", "(of a machine) to operate", "job", "work", "task", "CL:個|个[ge4],份[fen4],項|项[xiang4]"]
+  "meanings": ["to work", "(of a machine) to operate", "job", "work", "task"]
 }, {
   "trad": "可能",
   "simp": "可能",
   "pinyin": "kě néng",
-  "meanings": ["might (happen)", "possible", "probable", "possibility", "probability", "maybe", "perhaps", "CL:個|个[ge4]"]
+  "meanings": ["might (happen)", "possible", "probable", "possibility", "probability", "maybe", "perhaps"]
 }, {
   "trad": "薪",
   "simp": "薪",
@@ -2437,7 +2367,7 @@
   "trad": "朋友",
   "simp": "朋友",
   "pinyin": "péng you",
-  "meanings": ["friend", "CL:個|个[ge4],位[wei4]"]
+  "meanings": ["friend"]
 }, {
   "trad": "請",
   "simp": "请",
@@ -2452,7 +2382,7 @@
   "trad": "秊",
   "simp": "年",
   "pinyin": "nián",
-  "meanings": ["grain", "harvest (old)", "variant of 年[nian2]"]
+  "meanings": ["grain", "harvest (old)"]
 }, {
   "trad": "那",
   "simp": "那",
@@ -2487,7 +2417,7 @@
   "trad": "帶",
   "simp": "带",
   "pinyin": "dài",
-  "meanings": ["band", "belt", "girdle", "ribbon", "tire", "area", "zone", "region", "CL:條|条[tiao2]", "to wear", "to carry", "to take along", "to bear (i.e. to have)", "to lead", "to bring", "to look after", "to raise"]
+  "meanings": ["band", "belt", "girdle", "ribbon", "tire", "area", "zone", "region", "to wear", "to carry", "to take along", "to bear (i.e. to have)", "to lead", "to bring", "to look after", "to raise"]
 }, {
   "trad": "我",
   "simp": "我",
@@ -2522,7 +2452,7 @@
   "trad": "書",
   "simp": "书",
   "pinyin": "shū",
-  "meanings": ["book", "letter", "document", "CL:本[ben3],冊|册[ce4],部[bu4]", "to write"]
+  "meanings": ["book", "letter", "document", "to write"]
 }, {
   "trad": "其",
   "simp": "其",
@@ -2542,7 +2472,7 @@
   "trad": "器",
   "simp": "器",
   "pinyin": "qì",
-  "meanings": ["device", "tool", "utensil", "CL:臺|台[tai2]"]
+  "meanings": ["device", "tool", "utensil"]
 }, {
   "trad": "鬆",
   "simp": "松",
@@ -2557,7 +2487,7 @@
   "trad": "光",
   "simp": "光",
   "pinyin": "guāng",
-  "meanings": ["light", "ray", "CL:道[dao4]", "bright", "only", "merely", "to use up"]
+  "meanings": ["light", "ray", "bright", "only", "merely", "to use up"]
 }, {
   "trad": "其",
   "simp": "其",
@@ -2577,7 +2507,7 @@
   "trad": "合",
   "simp": "合",
   "pinyin": "hé",
-  "meanings": ["to close", "to join", "to fit", "to be equal to", "whole", "together", "round (in battle)", "conjunction (astronomy)", "1st note of pentatonic scale", "old variant of 盒[he2]"]
+  "meanings": ["to close", "to join", "to fit", "to be equal to", "whole", "together", "round (in battle)", "conjunction (astronomy)", "1st note of pentatonic scale"]
 }, {
   "trad": "完",
   "simp": "完",
@@ -2622,7 +2552,7 @@
   "trad": "晚上",
   "simp": "晚上",
   "pinyin": "wǎn shang",
-  "meanings": ["evening", "night", "CL:個|个[ge4]", "in the evening"]
+  "meanings": ["evening", "night", "in the evening"]
 }, {
   "trad": "惡",
   "simp": "恶",
@@ -2637,7 +2567,7 @@
   "trad": "小姐",
   "simp": "小姐",
   "pinyin": "xiǎo jie",
-  "meanings": ["young lady", "miss", "(slang) prostitute", "CL:個|个[ge4],位[wei4]"]
+  "meanings": ["young lady", "miss", "(slang) prostitute"]
 }, {
   "trad": "整",
   "simp": "整",
@@ -2647,7 +2577,7 @@
   "trad": "強",
   "simp": "强",
   "pinyin": "qiáng",
-  "meanings": ["strong", "powerful", "better", "slightly more than", "vigorous", "violent", "best in their category, e.g. see 百強|百强[bai3 qiang2]"]
+  "meanings": ["strong", "powerful", "better", "slightly more than", "vigorous", "violent"]
 }, {
   "trad": "業",
   "simp": "业",
@@ -2667,12 +2597,12 @@
   "trad": "奧",
   "simp": "奥",
   "pinyin": "Ào",
-  "meanings": ["Austria", "Austrian", "abbr. for 奧地利|奥地利[Ao4 di4 li4]", "Olympic", "Olympics", "abbr. for 奧林匹克|奥林匹克[Ao4 lin2 pi3 ke4]"]
+  "meanings": ["Austria", "Austrian", "Olympic", "Olympics"]
 }, {
   "trad": "夢",
   "simp": "梦",
   "pinyin": "mèng",
-  "meanings": ["dream", "CL:場|场[chang2],個|个[ge4]"]
+  "meanings": ["dream"]
 }, {
   "trad": "曾",
   "simp": "曾",
@@ -2682,7 +2612,7 @@
   "trad": "嘴",
   "simp": "嘴",
   "pinyin": "zuǐ",
-  "meanings": ["mouth", "beak", "nozzle", "spout (of teapot etc)", "CL:張|张[zhang1],個|个[ge4]"]
+  "meanings": ["mouth", "beak", "nozzle", "spout (of teapot etc)"]
 }, {
   "trad": "認",
   "simp": "认",
@@ -2717,7 +2647,7 @@
   "trad": "入",
   "simp": "入",
   "pinyin": "rù",
-  "meanings": ["to enter", "to go into", "to join", "to become a member of", "to confirm or agree with", "abbr. for 入聲|入声[ru4 sheng1]"]
+  "meanings": ["to enter", "to go into", "to join", "to become a member of", "to confirm or agree with"]
 }, {
   "trad": "睡",
   "simp": "睡",
@@ -2737,7 +2667,7 @@
   "trad": "節",
   "simp": "节",
   "pinyin": "jié",
-  "meanings": ["festival", "holiday", "node", "joint", "section", "segment", "part", "to economize", "to save", "to abridge", "moral integrity", "classifier for segments, e.g. lessons, train wagons, biblical verses", "CL:個|个[ge4]"]
+  "meanings": ["festival", "holiday", "node", "joint", "section", "segment", "part", "to economize", "to save", "to abridge", "moral integrity", "classifier for segments, e.g. lessons, train wagons, biblical verses"]
 }, {
   "trad": "頓",
   "simp": "顿",
@@ -2752,12 +2682,12 @@
   "trad": "根",
   "simp": "根",
   "pinyin": "gēn",
-  "meanings": ["root", "basis", "classifier for long slender objects, e.g. cigarettes, guitar strings", "CL:條|条[tiao2]", "radical (chemistry)"]
+  "meanings": ["root", "basis", "classifier for long slender objects, e.g. cigarettes, guitar strings", "radical (chemistry)"]
 }, {
   "trad": "蛋",
   "simp": "蛋",
   "pinyin": "dàn",
-  "meanings": ["egg", "CL:個|个[ge4],打[da2]", "oval-shaped thing"]
+  "meanings": ["egg", "oval-shaped thing"]
 }, {
   "trad": "緊",
   "simp": "紧",
@@ -2767,7 +2697,7 @@
   "trad": "麻",
   "simp": "麻",
   "pinyin": "má",
-  "meanings": ["generic name for hemp, flax etc", "hemp or flax fiber for textile materials", "sesame", "CL:縷|缕[lu:3]", "(of materials) rough or coarse", "pocked", "pitted", "to have pins and needles or tingling", "to feel numb"]
+  "meanings": ["generic name for hemp, flax etc", "hemp or flax fiber for textile materials", "sesame", "(of materials) rough or coarse", "pocked", "pitted", "to have pins and needles or tingling", "to feel numb"]
 }, {
   "trad": "很",
   "simp": "很",
@@ -2799,20 +2729,10 @@
   "pinyin": "gù",
   "meanings": ["happening", "instance", "reason", "cause", "intentional", "former", "old", "friend", "therefore", "hence", "(of people) to die, dead"]
 }, {
-  "trad": "眎",
-  "simp": "视",
-  "pinyin": "shì",
-  "meanings": ["variant of 視|视[shi4]", "variant of 示[shi4]"]
-}, {
   "trad": "真",
   "simp": "真",
   "pinyin": "zhēn",
   "meanings": ["really", "truly", "indeed", "real", "true", "genuine"]
-}, {
-  "trad": "蠏",
-  "simp": "蟹",
-  "pinyin": "xiè",
-  "meanings": ["variant of 蟹[xie4]"]
 }, {
   "trad": "費",
   "simp": "费",
@@ -2832,12 +2752,12 @@
   "trad": "反",
   "simp": "反",
   "pinyin": "fǎn",
-  "meanings": ["contrary", "in reverse", "inside out or upside down", "to reverse", "to return", "to oppose", "opposite", "against", "anti-", "to rebel", "to use analogy", "instead", "abbr. for 反切[fan3 qie4] phonetic system"]
+  "meanings": ["contrary", "in reverse", "inside out or upside down", "to reverse", "to return", "to oppose", "opposite", "against", "anti-", "to rebel", "to use analogy", "instead"]
 }, {
   "trad": "字",
   "simp": "字",
   "pinyin": "zì",
-  "meanings": ["letter", "symbol", "character", "word", "CL:個|个[ge4]", "courtesy or style name traditionally given to males aged 20 in dynastic China"]
+  "meanings": ["letter", "symbol", "character", "word", "courtesy or style name traditionally given to males aged 20 in dynastic China"]
 }, {
   "trad": "度",
   "simp": "度",
@@ -2872,7 +2792,7 @@
   "trad": "性",
   "simp": "性",
   "pinyin": "xìng",
-  "meanings": ["nature", "character", "property", "quality", "attribute", "sexuality", "sex", "gender", "suffix forming adjective from verb", "suffix forming noun from adjective, corresponding to -ness or -ity", "essence", "CL:個|个[ge4]"]
+  "meanings": ["nature", "character", "property", "quality", "attribute", "sexuality", "sex", "gender", "suffix forming adjective from verb", "suffix forming noun from adjective, corresponding to -ness or -ity", "essence"]
 }, {
   "trad": "常",
   "simp": "常",
@@ -2887,7 +2807,7 @@
   "trad": "之",
   "simp": "之",
   "pinyin": "zhī",
-  "meanings": ["(possessive particle, literary equivalent of 的[de5])", "him", "her", "it"]
+  "meanings": ["him", "her", "it"]
 }, {
   "trad": "可",
   "simp": "可",
@@ -2927,7 +2847,7 @@
   "trad": "伯",
   "simp": "伯",
   "pinyin": "bó",
-  "meanings": ["father's elder brother", "senior", "paternal elder uncle", "eldest of brothers", "respectful form of address", "Count, third of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]"]
+  "meanings": ["father's elder brother", "senior", "paternal elder uncle", "eldest of brothers", "respectful form of address"]
 }, {
   "trad": "口",
   "simp": "口",
@@ -2967,7 +2887,7 @@
   "trad": "畫",
   "simp": "画",
   "pinyin": "huà",
-  "meanings": ["to draw", "picture", "painting", "CL:幅[fu2],張|张[zhang1]", "classifier for paintings etc", "variant of 劃|划[hua4]"]
+  "meanings": ["to draw", "picture", "painting", "classifier for paintings etc"]
 }, {
   "trad": "身",
   "simp": "身",
@@ -3012,22 +2932,17 @@
   "trad": "酒",
   "simp": "酒",
   "pinyin": "jiǔ",
-  "meanings": ["wine (esp. rice wine)", "liquor", "spirits", "alcoholic beverage", "CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]"]
+  "meanings": ["wine (esp. rice wine)", "liquor", "spirits", "alcoholic beverage"]
 }, {
   "trad": "倫",
   "simp": "伦",
   "pinyin": "lún",
   "meanings": ["human relationship", "order", "coherence"]
 }, {
-  "trad": "裏",
-  "simp": "里",
-  "pinyin": "lǐ",
-  "meanings": ["variant of 裡|里[li3]"]
-}, {
   "trad": "花",
   "simp": "花",
   "pinyin": "huā",
-  "meanings": ["flower", "blossom", "CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]", "fancy pattern", "florid", "to spend (money, time)"]
+  "meanings": ["flower", "blossom", "fancy pattern", "florid", "to spend (money, time)"]
 }, {
   "trad": "續",
   "simp": "续",
@@ -3047,7 +2962,7 @@
   "trad": "房子",
   "simp": "房子",
   "pinyin": "fáng zi",
-  "meanings": ["house", "building (single- or two-story)", "apartment", "room", "CL:棟|栋[dong4],幢[zhuang4],座[zuo4],套[tao4],間|间[jian1]"]
+  "meanings": ["house", "building (single- or two-story)", "apartment", "room"]
 }, {
   "trad": "何",
   "simp": "何",
@@ -3062,12 +2977,12 @@
   "trad": "藥",
   "simp": "药",
   "pinyin": "yào",
-  "meanings": ["medicine", "drug", "substance used for a specific purpose (e.g. poisoning, explosion, fermenting)", "CL:種|种[zhong3],服[fu4],味[wei4]", "to poison"]
+  "meanings": ["medicine", "drug", "substance used for a specific purpose (e.g. poisoning, explosion, fermenting)", "to poison"]
 }, {
   "trad": "仝",
   "simp": "同",
   "pinyin": "tóng",
-  "meanings": ["(used in given names)", "variant of 同[tong2]"]
+  "meanings": ["(used in given names)"]
 }, {
   "trad": "早",
   "simp": "早",
@@ -3077,7 +2992,7 @@
   "trad": "波",
   "simp": "波",
   "pinyin": "Bō",
-  "meanings": ["Poland", "Polish", "abbr. for 波蘭|波兰[Bo1 lan2]"]
+  "meanings": ["Poland", "Polish"]
 }, {
   "trad": "弄",
   "simp": "弄",
@@ -3139,11 +3054,6 @@
   "pinyin": "hài",
   "meanings": ["to do harm to", "to cause trouble to", "harm", "evil", "calamity"]
 }, {
-  "trad": "麽",
-  "simp": "么",
-  "pinyin": "me",
-  "meanings": ["variant of 麼|么[me5]"]
-}, {
   "trad": "日",
   "simp": "日",
   "pinyin": "rì",
@@ -3172,7 +3082,7 @@
   "trad": "便",
   "simp": "便",
   "pinyin": "biàn",
-  "meanings": ["plain", "informal", "suitable", "convenient", "opportune", "to urinate or defecate", "equivalent to 就[jiu4]: then", "in that case", "even if", "soon afterwards"]
+  "meanings": ["plain", "informal", "suitable", "convenient", "opportune", "to urinate or defecate", "in that case", "even if", "soon afterwards"]
 }, {
   "trad": "客",
   "simp": "客",
@@ -3217,12 +3127,12 @@
   "trad": "任",
   "simp": "任",
   "pinyin": "rèn",
-  "meanings": ["to assign", "to appoint", "to take up a post", "office", "responsibility", "to let", "to allow", "to give free rein to", "no matter (how, what etc)", "classifier for terms served in office, or for spouses, girlfriends etc (as in 前任男友)"]
+  "meanings": ["to assign", "to appoint", "to take up a post", "office", "responsibility", "to let", "to allow", "to give free rein to", "no matter (how, what etc)"]
 }, {
   "trad": "色",
   "simp": "色",
   "pinyin": "sè",
-  "meanings": ["color", "CL:種|种[zhong3]", "look", "appearance", "sex"]
+  "meanings": ["color", "look", "appearance", "sex"]
 }, {
   "trad": "獨",
   "simp": "独",
@@ -3232,7 +3142,7 @@
   "trad": "眼",
   "simp": "眼",
   "pinyin": "yǎn",
-  "meanings": ["eye", "small hole", "crux (of a matter)", "CL:隻|只[zhi1],雙|双[shuang1]", "classifier for big hollow things (wells, stoves, pots etc)"]
+  "meanings": ["eye", "small hole", "crux (of a matter)", "classifier for big hollow things (wells, stoves, pots etc)"]
 }, {
   "trad": "黑",
   "simp": "黑",
@@ -3242,7 +3152,7 @@
   "trad": "華",
   "simp": "华",
   "pinyin": "Huà",
-  "meanings": ["Mt Hua 華山|华山 in Shaanxi", "surname Hua"]
+  "meanings": ["surname Hua"]
 }, {
   "trad": "放",
   "simp": "放",
@@ -3252,7 +3162,7 @@
   "trad": "城",
   "simp": "城",
   "pinyin": "chéng",
-  "meanings": ["city walls", "city", "town", "CL:座[zuo4],道[dao4],個|个[ge4]"]
+  "meanings": ["city walls", "city", "town"]
 }, {
   "trad": "的",
   "simp": "的",
@@ -3267,7 +3177,7 @@
   "trad": "小孩",
   "simp": "小孩",
   "pinyin": "xiǎo hái",
-  "meanings": ["child", "CL:個|个[ge4]"]
+  "meanings": ["child"]
 }, {
   "trad": "住",
   "simp": "住",
@@ -3277,7 +3187,7 @@
   "trad": "咖啡",
   "simp": "咖啡",
   "pinyin": "kā fēi",
-  "meanings": ["coffee (loanword)", "CL:杯[bei1]"]
+  "meanings": ["coffee (loanword)"]
 }, {
   "trad": "換",
   "simp": "换",
@@ -3332,7 +3242,7 @@
   "trad": "釋",
   "simp": "释",
   "pinyin": "shì",
-  "meanings": ["to explain", "to release", "Buddha (abbr. for 釋迦牟尼|释迦牟尼[Shi4 jia1 mou2 ni2])", "Buddhism"]
+  "meanings": ["to explain", "to release", "Buddhism"]
 }, {
   "trad": "能",
   "simp": "能",
@@ -3352,7 +3262,7 @@
   "trad": "圖",
   "simp": "图",
   "pinyin": "tú",
-  "meanings": ["diagram", "picture", "drawing", "chart", "map", "CL:張|张[zhang1]", "to plan", "to scheme", "to attempt", "to pursue", "to seek"]
+  "meanings": ["diagram", "picture", "drawing", "chart", "map", "to plan", "to scheme", "to attempt", "to pursue", "to seek"]
 }, {
   "trad": "該",
   "simp": "该",
@@ -3367,7 +3277,7 @@
   "trad": "字",
   "simp": "字",
   "pinyin": "zì",
-  "meanings": ["letter", "symbol", "character", "word", "CL:個|个[ge4]", "courtesy or style name traditionally given to males aged 20 in dynastic China"]
+  "meanings": ["letter", "symbol", "character", "word", "courtesy or style name traditionally given to males aged 20 in dynastic China"]
 }, {
   "trad": "對",
   "simp": "对",
@@ -3387,7 +3297,7 @@
   "trad": "保",
   "simp": "保",
   "pinyin": "Bǎo",
-  "meanings": ["Bulgaria", "Bulgarian", "abbr. for 保加利亞|保加利亚[Bao3 jia1 li4 ya4]"]
+  "meanings": ["Bulgaria", "Bulgarian"]
 }, {
   "trad": "替",
   "simp": "替",
@@ -3407,7 +3317,7 @@
   "trad": "錢",
   "simp": "钱",
   "pinyin": "qián",
-  "meanings": ["coin", "money", "CL:筆|笔[bi3]", "unit of weight, one tenth of a tael 兩|两[liang3]"]
+  "meanings": ["coin", "money"]
 }, {
   "trad": "想",
   "simp": "想",
@@ -3427,12 +3337,12 @@
   "trad": "新",
   "simp": "新",
   "pinyin": "Xīn",
-  "meanings": ["abbr. for Xinjiang 新疆[Xin1 jiang1] or Singapore 新加坡[Xin1 jia1 po1]", "surname Xin"]
+  "meanings": ["surname Xin"]
 }, {
   "trad": "希",
   "simp": "希",
   "pinyin": "xī",
-  "meanings": ["to hope", "to admire", "variant of 稀[xi1]"]
+  "meanings": ["to hope", "to admire"]
 }, {
   "trad": "炸",
   "simp": "炸",
@@ -3452,7 +3362,7 @@
   "trad": "說",
   "simp": "说",
   "pinyin": "shuō",
-  "meanings": ["to speak", "to say", "to explain", "to scold", "to tell off", "a theory (typically the last character in a compound, as in 日心說|日心说 heliocentric theory)"]
+  "meanings": ["to speak", "to say", "to explain", "to scold", "to tell off"]
 }, {
   "trad": "碼",
   "simp": "码",
@@ -3462,12 +3372,12 @@
   "trad": "戲",
   "simp": "戏",
   "pinyin": "xì",
-  "meanings": ["trick", "drama", "play", "show", "CL:出[chu1],場|场[chang3],臺|台[tai2]"]
+  "meanings": ["trick", "drama", "play", "show"]
 }, {
   "trad": "塞",
   "simp": "塞",
   "pinyin": "Sāi",
-  "meanings": ["Serbia", "Serbian", "abbr. for 塞爾維亞|塞尔维亚[Sai1 er3 wei2 ya4]"]
+  "meanings": ["Serbia", "Serbian"]
 }, {
   "trad": "碰",
   "simp": "碰",
@@ -3507,12 +3417,12 @@
   "trad": "開",
   "simp": "开",
   "pinyin": "kāi",
-  "meanings": ["to open", "to start", "to turn on", "to boil", "to write out (a prescription, check, invoice etc)", "to operate (a vehicle)", "carat (gold)", "abbr. for Kelvin, 開爾文|开尔文[Kai1 er3 wen2]", "abbr. for 開本|开本[kai1 ben3], book format"]
+  "meanings": ["to open", "to start", "to turn on", "to boil", "to write out (a prescription, check, invoice etc)", "to operate (a vehicle)", "carat (gold)"]
 }, {
   "trad": "生命",
   "simp": "生命",
   "pinyin": "shēng mìng",
-  "meanings": ["life (as the characteristic of living beings)", "living being", "creature", "CL:個|个[ge4],條|条[tiao2]"]
+  "meanings": ["life (as the characteristic of living beings)", "living being", "creature"]
 }, {
   "trad": "王",
   "simp": "王",
@@ -3557,7 +3467,7 @@
   "trad": "原因",
   "simp": "原因",
   "pinyin": "yuán yīn",
-  "meanings": ["cause", "origin", "root cause", "reason", "CL:個|个[ge4]"]
+  "meanings": ["cause", "origin", "root cause", "reason"]
 }, {
   "trad": "卻",
   "simp": "却",
@@ -3572,7 +3482,7 @@
   "trad": "管",
   "simp": "管",
   "pinyin": "guǎn",
-  "meanings": ["to take care (of)", "to control", "to manage", "to be in charge of", "to look after", "to run", "to care about", "tube", "pipe", "woodwind", "classifier for tube-shaped objects", "particle similar to 把[ba3] in 管...叫 constructions", "writing brush", "(coll.) to", "towards"]
+  "meanings": ["to take care (of)", "to control", "to manage", "to be in charge of", "to look after", "to run", "to care about", "tube", "pipe", "woodwind", "classifier for tube-shaped objects", "writing brush", "(coll.) to", "towards"]
 }, {
   "trad": "狂",
   "simp": "狂",
@@ -3627,7 +3537,7 @@
   "trad": "樓",
   "simp": "楼",
   "pinyin": "lóu",
-  "meanings": ["house with more than 1 story", "storied building", "floor", "CL:層|层[ceng2],座[zuo4],棟|栋[dong4]"]
+  "meanings": ["house with more than 1 story", "storied building", "floor"]
 }, {
   "trad": "另",
   "simp": "另",
@@ -3647,12 +3557,12 @@
   "trad": "裡",
   "simp": "里",
   "pinyin": "lǐ",
-  "meanings": ["lining", "interior", "inside", "internal", "also written 裏|里[li3]"]
+  "meanings": ["lining", "interior", "inside", "internal"]
 }, {
   "trad": "院",
   "simp": "院",
   "pinyin": "yuàn",
-  "meanings": ["courtyard", "institution", "CL:個|个[ge4]"]
+  "meanings": ["courtyard", "institution"]
 }, {
   "trad": "空",
   "simp": "空",
@@ -3662,12 +3572,12 @@
   "trad": "娜",
   "simp": "娜",
   "pinyin": "nà",
-  "meanings": ["(phonetic na)", "used esp. in female names such as Anna 安娜[An1 na4] or Diana 黛安娜[Dai4 an1 na4]"]
+  "meanings": ["(phonetic na)"]
 }, {
   "trad": "將",
   "simp": "将",
   "pinyin": "jiāng",
-  "meanings": ["will", "shall", "to use", "to take", "to checkmate", "just a short while ago", "(introduces object of main verb, used in the same way as 把[ba3])"]
+  "meanings": ["will", "shall", "to use", "to take", "to checkmate", "just a short while ago"]
 }, {
   "trad": "下",
   "simp": "下",
@@ -3697,7 +3607,7 @@
   "trad": "血",
   "simp": "血",
   "pinyin": "xuè",
-  "meanings": ["blood", "colloquial pr. [xie3]", "CL:滴[di1],片[pian4]"]
+  "meanings": ["blood", "colloquial pr. [xie3]"]
 }, {
   "trad": "失",
   "simp": "失",
@@ -3722,7 +3632,7 @@
   "trad": "包",
   "simp": "包",
   "pinyin": "bāo",
-  "meanings": ["to cover", "to wrap", "to hold", "to include", "to take charge of", "to contract (to or for)", "package", "wrapper", "container", "bag", "to hold or embrace", "bundle", "packet", "CL:個|个[ge4],隻|只[zhi1]"]
+  "meanings": ["to cover", "to wrap", "to hold", "to include", "to take charge of", "to contract (to or for)", "package", "wrapper", "container", "bag", "to hold or embrace", "bundle", "packet"]
 }, {
   "trad": "等",
   "simp": "等",
@@ -3782,7 +3692,7 @@
   "trad": "保",
   "simp": "保",
   "pinyin": "Bǎo",
-  "meanings": ["Bulgaria", "Bulgarian", "abbr. for 保加利亞|保加利亚[Bao3 jia1 li4 ya4]"]
+  "meanings": ["Bulgaria", "Bulgarian"]
 }, {
   "trad": "想",
   "simp": "想",
@@ -3802,7 +3712,7 @@
   "trad": "拿",
   "simp": "拿",
   "pinyin": "ná",
-  "meanings": ["to hold", "to seize", "to catch", "to apprehend", "to take", "(used in the same way as 把[ba3]: to mark the following noun as a direct object)"]
+  "meanings": ["to hold", "to seize", "to catch", "to apprehend", "to take"]
 }, {
   "trad": "情",
   "simp": "情",
@@ -3812,12 +3722,7 @@
   "trad": "爸爸",
   "simp": "爸爸",
   "pinyin": "bà ba",
-  "meanings": ["(informal) father", "CL:個|个[ge4],位[wei4]"]
-}, {
-  "trad": "您",
-  "simp": "您",
-  "pinyin": "nín",
-  "meanings": ["you (courteous, as opposed to informal 你[ni3])"]
+  "meanings": ["(informal) father"]
 }, {
   "trad": "美",
   "simp": "美",
@@ -3837,7 +3742,7 @@
   "trad": "前",
   "simp": "前",
   "pinyin": "qián",
-  "meanings": ["front", "forward", "ahead", "first", "top (followed by a number)", "future", "ago", "before", "BC (e.g. 前293年)", "former", "formerly"]
+  "meanings": ["front", "forward", "ahead", "first", "top (followed by a number)", "future", "ago", "before", "former", "formerly"]
 }, {
   "trad": "格",
   "simp": "格",
@@ -3859,11 +3764,6 @@
   "pinyin": "dà",
   "meanings": ["big", "huge", "large", "major", "great", "wide", "deep", "older (than)", "oldest", "eldest", "greatly", "very much", "(dialect) father", "father's elder or younger brother"]
 }, {
-  "trad": "呀",
-  "simp": "呀",
-  "pinyin": "ya",
-  "meanings": ["(particle equivalent to 啊 after a vowel, expressing surprise or doubt)"]
-}, {
   "trad": "係",
   "simp": "系",
   "pinyin": "xì",
@@ -3882,7 +3782,7 @@
   "trad": "明",
   "simp": "明",
   "pinyin": "Míng",
-  "meanings": ["Ming Dynasty (1368-1644)", "surname Ming", "Ming (c. 2000 BC), fourth of the legendary Flame Emperors, 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God"]
+  "meanings": ["Ming Dynasty (1368-1644)", "surname Ming"]
 }, {
   "trad": "備",
   "simp": "备",
@@ -3922,7 +3822,7 @@
   "trad": "艾",
   "simp": "艾",
   "pinyin": "ài",
-  "meanings": ["Chinese mugwort or wormwood", "moxa", "to stop or cut short", "phonetic \"ai\" or \"i\"", "abbr. for 艾滋病[ai4 zi1 bing4], AIDS"]
+  "meanings": ["Chinese mugwort or wormwood", "moxa", "to stop or cut short", "phonetic \"ai\" or \"i\""]
 }, {
   "trad": "意",
   "simp": "意",
@@ -3932,17 +3832,17 @@
   "trad": "門",
   "simp": "门",
   "pinyin": "mén",
-  "meanings": ["gate", "door", "CL:扇[shan4]", "gateway", "doorway", "CL:個|个[ge4]", "opening", "valve", "switch", "way to do something", "knack", "family", "house", "(religious) sect", "school (of thought)", "class", "category", "phylum or division (taxonomy)", "classifier for large guns", "classifier for lessons, subjects, branches of technology", "(suffix) -gate (i.e. scandal; derived from Watergate)"]
+  "meanings": ["gate", "door", "gateway", "doorway", "opening", "valve", "switch", "way to do something", "knack", "family", "house", "(religious) sect", "school (of thought)", "class", "category", "phylum or division (taxonomy)", "classifier for large guns", "classifier for lessons, subjects, branches of technology", "(suffix) -gate (i.e. scandal; derived from Watergate)"]
 }, {
   "trad": "啦",
   "simp": "啦",
   "pinyin": "la",
-  "meanings": ["sentence-final particle, contraction of 了啊, indicating exclamation", "particle placed after each item in a list of examples"]
+  "meanings": ["particle placed after each item in a list of examples"]
 }, {
   "trad": "米",
   "simp": "米",
   "pinyin": "mǐ",
-  "meanings": ["rice", "CL:粒[li4]", "meter (classifier)"]
+  "meanings": ["rice", "meter (classifier)"]
 }, {
   "trad": "本",
   "simp": "本",
@@ -3987,7 +3887,7 @@
   "trad": "福",
   "simp": "福",
   "pinyin": "Fú",
-  "meanings": ["surname Fu", "abbr. for Fujian province 福建省[Fu2 jian4 sheng3]"]
+  "meanings": ["surname Fu"]
 }, {
   "trad": "打",
   "simp": "打",
@@ -4007,7 +3907,7 @@
   "trad": "連",
   "simp": "连",
   "pinyin": "lián",
-  "meanings": ["to link", "to join", "to connect", "continuously", "in succession", "including", "(used with 也, 都 etc) even", "company (military)"]
+  "meanings": ["to link", "to join", "to connect", "continuously", "in succession", "including", "company (military)"]
 }, {
   "trad": "怕",
   "simp": "怕",
@@ -4017,7 +3917,7 @@
   "trad": "化",
   "simp": "化",
   "pinyin": "huà",
-  "meanings": ["to make into", "to change into", "-ization", "to ... -ize", "to transform", "abbr. for 化學|化学[hua4 xue2]"]
+  "meanings": ["to make into", "to change into", "-ization", "to ... -ize", "to transform"]
 }, {
   "trad": "不",
   "simp": "不",
@@ -4042,7 +3942,7 @@
   "trad": "越",
   "simp": "越",
   "pinyin": "Yuè",
-  "meanings": ["generic word for peoples or states of south China or south Asia at different historical periods", "abbr. for Vietnam 越南"]
+  "meanings": ["generic word for peoples or states of south China or south Asia at different historical periods"]
 }, {
   "trad": "小子",
   "simp": "小子",
@@ -4087,7 +3987,7 @@
   "trad": "畫",
   "simp": "画",
   "pinyin": "huà",
-  "meanings": ["to draw", "picture", "painting", "CL:幅[fu2],張|张[zhang1]", "classifier for paintings etc", "variant of 劃|划[hua4]"]
+  "meanings": ["to draw", "picture", "painting", "classifier for paintings etc"]
 }, {
   "trad": "身",
   "simp": "身",
@@ -4152,7 +4052,7 @@
   "trad": "問題",
   "simp": "问题",
   "pinyin": "wèn tí",
-  "meanings": ["question", "problem", "issue", "topic", "CL:個|个[ge4]"]
+  "meanings": ["question", "problem", "issue", "topic"]
 }, {
   "trad": "沒事",
   "simp": "没事",
@@ -4187,7 +4087,7 @@
   "trad": "蒙",
   "simp": "蒙",
   "pinyin": "Měng",
-  "meanings": ["Mongol ethnic group", "abbr. for Mongolia 蒙古國|蒙古国[Meng3 gu3 guo2]", "Taiwan pr. [Meng2]"]
+  "meanings": ["Mongol ethnic group", "Taiwan pr. [Meng2]"]
 }, {
   "trad": "抓",
   "simp": "抓",
@@ -4197,7 +4097,7 @@
   "trad": "山",
   "simp": "山",
   "pinyin": "shān",
-  "meanings": ["mountain", "hill", "anything that resembles a mountain", "CL:座[zuo4]", "bundled straw in which silkworms spin cocoons", "gable"]
+  "meanings": ["mountain", "hill", "anything that resembles a mountain", "bundled straw in which silkworms spin cocoons", "gable"]
 }, {
   "trad": "拍",
   "simp": "拍",
@@ -4207,7 +4107,7 @@
   "trad": "沙",
   "simp": "沙",
   "pinyin": "shā",
-  "meanings": ["granule", "hoarse", "raspy", "sand", "powder", "CL:粒[li4]", "abbr. for Tsar or Tsarist Russia"]
+  "meanings": ["granule", "hoarse", "raspy", "sand", "powder", "abbr. for Tsar or Tsarist Russia"]
 }, {
   "trad": "妻",
   "simp": "妻",
@@ -4217,17 +4117,12 @@
   "trad": "臉",
   "simp": "脸",
   "pinyin": "liǎn",
-  "meanings": ["face", "CL:張|张[zhang1],個|个[ge4]"]
+  "meanings": ["face"]
 }, {
   "trad": "責",
   "simp": "责",
   "pinyin": "zé",
   "meanings": ["duty", "responsibility", "to reproach", "to blame"]
-}, {
-  "trad": "你",
-  "simp": "你",
-  "pinyin": "nǐ",
-  "meanings": ["you (informal, as opposed to courteous 您[nin2])"]
 }, {
   "trad": "回",
   "simp": "回",
@@ -4237,7 +4132,7 @@
   "trad": "歌",
   "simp": "歌",
   "pinyin": "gē",
-  "meanings": ["song", "CL:支[zhi1],首[shou3]", "to sing"]
+  "meanings": ["song", "to sing"]
 }, {
   "trad": "星",
   "simp": "星",
@@ -4262,12 +4157,12 @@
   "trad": "倖",
   "simp": "幸",
   "pinyin": "xìng",
-  "meanings": ["trusted", "intimate", "(of the emperor) to visit", "variant of 幸[xing4]"]
+  "meanings": ["trusted", "intimate", "(of the emperor) to visit"]
 }, {
   "trad": "交",
   "simp": "交",
   "pinyin": "jiāo",
-  "meanings": ["to hand over", "to deliver", "to pay (money)", "to turn over", "to make friends", "to intersect (lines)", "variant of 跤[jiao1]"]
+  "meanings": ["to hand over", "to deliver", "to pay (money)", "to turn over", "to make friends", "to intersect (lines)"]
 }, {
   "trad": "不同",
   "simp": "不同",
@@ -4292,7 +4187,7 @@
   "trad": "班",
   "simp": "班",
   "pinyin": "bān",
-  "meanings": ["team", "class", "squad", "work shift", "ranking", "CL:個|个[ge4]", "classifier for groups"]
+  "meanings": ["team", "class", "squad", "work shift", "ranking", "classifier for groups"]
 }, {
   "trad": "二",
   "simp": "二",
@@ -4307,7 +4202,7 @@
   "trad": "武器",
   "simp": "武器",
   "pinyin": "wǔ qì",
-  "meanings": ["weapon", "arms", "CL:種|种[zhong3]"]
+  "meanings": ["weapon", "arms"]
 }, {
   "trad": "熱",
   "simp": "热",
@@ -4347,17 +4242,17 @@
   "trad": "參",
   "simp": "参",
   "pinyin": "cān",
-  "meanings": ["to take part in", "to participate", "to join", "to attend", "to counsel", "unequal", "varied", "irregular", "uneven", "not uniform", "abbr. for 參議院|参议院 Senate, Upper House"]
+  "meanings": ["to take part in", "to participate", "to join", "to attend", "to counsel", "unequal", "varied", "irregular", "uneven", "not uniform"]
 }, {
   "trad": "瓦",
   "simp": "瓦",
   "pinyin": "wǎ",
-  "meanings": ["roof tile", "abbr. for 瓦特[wa3 te4]"]
+  "meanings": ["roof tile"]
 }, {
   "trad": "飯",
   "simp": "饭",
   "pinyin": "fàn",
-  "meanings": ["food", "cuisine", "cooked rice", "meal", "CL:碗[wan3],頓|顿[dun4]"]
+  "meanings": ["food", "cuisine", "cooked rice", "meal"]
 }, {
   "trad": "殺",
   "simp": "杀",
@@ -4377,12 +4272,12 @@
   "trad": "昰",
   "simp": "是",
   "pinyin": "shì",
-  "meanings": ["variant of 是[shi4]", "(used in given names)"]
+  "meanings": ["(used in given names)"]
 }, {
   "trad": "勒",
   "simp": "勒",
   "pinyin": "lè",
-  "meanings": ["to rein in", "to compel", "to force", "to carve", "to engrave", "(literary) to command", "to lead", "bridle", "(physics) abbr. for 勒克斯[le4 ke4 si1], lux"]
+  "meanings": ["to rein in", "to compel", "to force", "to carve", "to engrave", "(literary) to command", "to lead", "bridle"]
 }, {
   "trad": "射",
   "simp": "射",
@@ -4402,7 +4297,7 @@
   "trad": "太太",
   "simp": "太太",
   "pinyin": "tài tai",
-  "meanings": ["married woman", "Mrs.", "Madam", "wife", "CL:個|个[ge4],位[wei4]"]
+  "meanings": ["married woman", "Mrs.", "Madam", "wife"]
 }, {
   "trad": "接",
   "simp": "接",
@@ -4417,7 +4312,7 @@
   "trad": "象",
   "simp": "象",
   "pinyin": "xiàng",
-  "meanings": ["elephant", "CL:隻|只[zhi1]", "shape", "form", "appearance", "to imitate"]
+  "meanings": ["elephant", "shape", "form", "appearance", "to imitate"]
 }, {
   "trad": "靈",
   "simp": "灵",
@@ -4467,7 +4362,7 @@
   "trad": "注",
   "simp": "注",
   "pinyin": "zhù",
-  "meanings": ["to inject", "to pour into", "to concentrate", "to pay attention", "stake (gambling)", "classifier for sums of money", "variant of 註|注[zhu4]"]
+  "meanings": ["to inject", "to pour into", "to concentrate", "to pay attention", "stake (gambling)", "classifier for sums of money"]
 }, {
   "trad": "歷",
   "simp": "历",
@@ -4477,12 +4372,12 @@
   "trad": "腳",
   "simp": "脚",
   "pinyin": "jiǎo",
-  "meanings": ["foot", "leg (of an animal or an object)", "base (of an object)", "CL:雙|双[shuang1],隻|只[zhi1]", "classifier for kicks"]
+  "meanings": ["foot", "leg (of an animal or an object)", "base (of an object)", "classifier for kicks"]
 }, {
   "trad": "絲",
   "simp": "丝",
   "pinyin": "sī",
-  "meanings": ["silk", "thread", "trace", "(cuisine) shreds or julienne strips", "CL:條|条[tiao2]", "classifier: a thread (of cloud, smoke etc), a bit, an iota, a hint (of sth) etc"]
+  "meanings": ["silk", "thread", "trace", "(cuisine) shreds or julienne strips", "classifier: a thread (of cloud, smoke etc), a bit, an iota, a hint (of sth) etc"]
 }, {
   "trad": "少",
   "simp": "少",
@@ -4502,7 +4397,7 @@
   "trad": "魚",
   "simp": "鱼",
   "pinyin": "yú",
-  "meanings": ["fish", "CL:條|条[tiao2],尾[wei3]"]
+  "meanings": ["fish"]
 }, {
   "trad": "驗",
   "simp": "验",
@@ -4537,12 +4432,12 @@
   "trad": "盃",
   "simp": "杯",
   "pinyin": "bēi",
-  "meanings": ["variant of 杯[bei1]", "trophy cup", "classifier for certain containers of liquids: glass, cup"]
+  "meanings": ["trophy cup", "classifier for certain containers of liquids: glass, cup"]
 }, {
   "trad": "館",
   "simp": "馆",
   "pinyin": "guǎn",
-  "meanings": ["building", "shop", "term for certain service establishments", "embassy or consulate", "schoolroom (old)", "CL:家[jia1]"]
+  "meanings": ["building", "shop", "term for certain service establishments", "embassy or consulate", "schoolroom (old)"]
 }, {
   "trad": "完",
   "simp": "完",
@@ -4642,7 +4537,7 @@
   "trad": "所",
   "simp": "所",
   "pinyin": "suǒ",
-  "meanings": ["actually", "place", "classifier for houses, small buildings, institutions etc", "that which", "particle introducing a relative clause or passive", "CL:個|个[ge4]"]
+  "meanings": ["actually", "place", "classifier for houses, small buildings, institutions etc", "that which", "particle introducing a relative clause or passive"]
 }, {
   "trad": "博",
   "simp": "博",
@@ -4652,7 +4547,7 @@
   "trad": "媽媽",
   "simp": "妈妈",
   "pinyin": "mā ma",
-  "meanings": ["mama", "mommy", "mother", "CL:個|个[ge4],位[wei4]"]
+  "meanings": ["mama", "mommy", "mother"]
 }, {
   "trad": "父母",
   "simp": "父母",
@@ -4667,7 +4562,7 @@
   "trad": "男",
   "simp": "男",
   "pinyin": "nán",
-  "meanings": ["male", "Baron, lowest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]", "CL:個|个[ge4]"]
+  "meanings": ["male"]
 }, {
   "trad": "攻",
   "simp": "攻",
@@ -4677,12 +4572,12 @@
   "trad": "店",
   "simp": "店",
   "pinyin": "diàn",
-  "meanings": ["inn", "shop", "store", "CL:家[jia1]"]
+  "meanings": ["inn", "shop", "store"]
 }, {
   "trad": "埃",
   "simp": "埃",
   "pinyin": "āi",
-  "meanings": ["dust", "dirt", "Angstrom or Ångström, unit of length equal to 10^-10 meters", "phonetic ai or e", "abbr. for Egypt 埃及[Ai1 ji2]"]
+  "meanings": ["dust", "dirt", "Angstrom or Ångström, unit of length equal to 10^-10 meters", "phonetic ai or e"]
 }, {
   "trad": "多",
   "simp": "多",
@@ -4712,7 +4607,7 @@
   "trad": "事",
   "simp": "事",
   "pinyin": "shì",
-  "meanings": ["matter", "thing", "item", "work", "affair", "CL:件[jian4],樁|桩[zhuang1],回[hui2]"]
+  "meanings": ["matter", "thing", "item", "work", "affair"]
 }, {
   "trad": "看",
   "simp": "看",
@@ -4732,7 +4627,7 @@
   "trad": "給",
   "simp": "给",
   "pinyin": "gěi",
-  "meanings": ["to", "for", "for the benefit of", "to give", "to allow", "to do sth (for sb)", "(grammatical equivalent of 被)", "(grammatical equivalent of 把)", "(sentence intensifier)"]
+  "meanings": ["to", "for", "for the benefit of", "to give", "to allow", "to do sth (for sb)", "(sentence intensifier)"]
 }, {
   "trad": "可",
   "simp": "可",
@@ -4747,7 +4642,7 @@
   "trad": "斯",
   "simp": "斯",
   "pinyin": "Sī",
-  "meanings": ["Slovakia", "Slovak", "abbr. for 斯洛伐克[Si1 luo4 fa2 ke4]"]
+  "meanings": ["Slovakia", "Slovak"]
 }, {
   "trad": "做",
   "simp": "做",
@@ -4767,17 +4662,17 @@
   "trad": "點",
   "simp": "点",
   "pinyin": "diǎn",
-  "meanings": ["point", "dot", "drop", "speck", "o'clock", "point (in space or time)", "to draw a dot", "to check on a list", "to choose", "to order (food in a restaurant)", "to touch briefly", "to hint", "to light", "to ignite", "to pour a liquid drop by drop", "(old) one fifth of a two-hour watch 更[geng1]", "dot stroke in Chinese characters", "classifier for items"]
+  "meanings": ["point", "dot", "drop", "speck", "o'clock", "point (in space or time)", "to draw a dot", "to check on a list", "to choose", "to order (food in a restaurant)", "to touch briefly", "to hint", "to light", "to ignite", "to pour a liquid drop by drop", "dot stroke in Chinese characters", "classifier for items"]
 }, {
   "trad": "開",
   "simp": "开",
   "pinyin": "kāi",
-  "meanings": ["to open", "to start", "to turn on", "to boil", "to write out (a prescription, check, invoice etc)", "to operate (a vehicle)", "carat (gold)", "abbr. for Kelvin, 開爾文|开尔文[Kai1 er3 wen2]", "abbr. for 開本|开本[kai1 ben3], book format"]
+  "meanings": ["to open", "to start", "to turn on", "to boil", "to write out (a prescription, check, invoice etc)", "to operate (a vehicle)", "carat (gold)"]
 }, {
   "trad": "讓",
   "simp": "让",
   "pinyin": "ràng",
-  "meanings": ["to yield", "to permit", "to let sb do sth", "to have sb do sth", "to make sb (feel sad etc)", "by (indicates the agent in a passive clause, like 被[bei4])"]
+  "meanings": ["to yield", "to permit", "to let sb do sth", "to have sb do sth", "to make sb (feel sad etc)"]
 }, {
   "trad": "就",
   "simp": "就",
@@ -4829,11 +4724,6 @@
   "pinyin": "tīng",
   "meanings": ["to listen", "to hear", "to obey", "a can (loanword from English \"tin\")", "classifier for canned beverages"]
 }, {
-  "trad": "剋",
-  "simp": "克",
-  "pinyin": "Kè",
-  "meanings": ["Ke (c. 2000 BC), seventh of the legendary Flame Emperors, 炎帝[Yan2 di4] descended from Shennong 神農|神农[Shen2 nong2] Farmer God"]
-}, {
   "trad": "再",
   "simp": "再",
   "pinyin": "zài",
@@ -4857,7 +4747,7 @@
   "trad": "是的",
   "simp": "是的",
   "pinyin": "shì de",
-  "meanings": ["yes, that's right", "variant of 似的[shi4 de5]"]
+  "meanings": ["yes, that's right"]
 }, {
   "trad": "大",
   "simp": "大",
@@ -4867,7 +4757,7 @@
   "trad": "先生",
   "simp": "先生",
   "pinyin": "xiān sheng",
-  "meanings": ["teacher", "husband", "doctor (dialect)", "CL:位[wei4]"]
+  "meanings": ["teacher", "husband", "doctor (dialect)"]
 }, {
   "trad": "別",
   "simp": "别",
@@ -4897,7 +4787,7 @@
   "trad": "話",
   "simp": "话",
   "pinyin": "huà",
-  "meanings": ["dialect", "language", "spoken words", "speech", "talk", "words", "conversation", "what sb said", "CL:種|种[zhong3],席[xi2],句[ju4],口[kou3],番[fan1]"]
+  "meanings": ["dialect", "language", "spoken words", "speech", "talk", "words", "conversation", "what sb said"]
 }, {
   "trad": "械",
   "simp": "械",
@@ -4927,12 +4817,12 @@
   "trad": "西",
   "simp": "西",
   "pinyin": "Xī",
-  "meanings": ["the West", "abbr. for Spain 西班牙[Xi1 ban1 ya2]", "Spanish"]
+  "meanings": ["the West", "Spanish"]
 }, {
   "trad": "子",
   "simp": "子",
   "pinyin": "zǐ",
-  "meanings": ["son", "child", "seed", "egg", "small thing", "1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat", "Viscount, fourth of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]", "ancient Chinese compass point: 0° (north)"]
+  "meanings": ["son", "child", "seed", "egg", "small thing", "1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat", "ancient Chinese compass point: 0° (north)"]
 }, {
   "trad": "已",
   "simp": "已",
@@ -4942,7 +4832,7 @@
   "trad": "會",
   "simp": "会",
   "pinyin": "huì",
-  "meanings": ["can", "to be possible", "to be able to", "will", "to be likely to", "to be sure to", "to assemble", "to meet", "to gather", "to see", "union", "group", "association", "CL:個|个[ge4]", "a moment (Taiwan pr. for this sense is [hui3])"]
+  "meanings": ["can", "to be possible", "to be able to", "will", "to be likely to", "to be sure to", "to assemble", "to meet", "to gather", "to see", "union", "group", "association", "a moment (Taiwan pr. for this sense is [hui3])"]
 }, {
   "trad": "小",
   "simp": "小",
@@ -4957,5 +4847,5 @@
   "trad": "特",
   "simp": "特",
   "pinyin": "tè",
-  "meanings": ["special", "unique", "distinguished", "especially", "unusual", "very", "abbr. for 特克斯[te4 ke4 si1], tex"]
+  "meanings": ["special", "unique", "distinguished", "especially", "unusual", "very"]
 }]
