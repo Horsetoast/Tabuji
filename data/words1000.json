@@ -29,11 +29,6 @@
   "pinyin": "qù",
   "meanings": ["to go", "to go to (a place)", "(of a time etc) last", "just passed", "to send", "to remove", "to get rid of", "to reduce", "to be apart from in space or time", "to die (euphemism)", "to play (a part)", "(when used either before or after a verb) to go in order to do sth", "(after a verb of motion indicates movement away from the speaker)", "(used after certain verbs to indicate detachment or separation)"]
 }, {
-  "trad": "也",
-  "simp": "也",
-  "pinyin": "Yě",
-  "meanings": ["surname Ye"]
-}, {
   "trad": "有",
   "simp": "有",
   "pinyin": "yǒu",
@@ -43,11 +38,6 @@
   "simp": "这",
   "pinyin": "zhè",
   "meanings": ["this", "these"]
-}, {
-  "trad": "那",
-  "simp": "那",
-  "pinyin": "Nā",
-  "meanings": ["surname Na"]
 }, {
   "trad": "不",
   "simp": "不",
@@ -104,11 +94,6 @@
   "pinyin": "tā",
   "meanings": ["he or him", "(used for either sex when the sex is unknown or unimportant)", "(used before sb's name for emphasis)", "(used as a meaningless mock object)", "other", "another"]
 }, {
-  "trad": "么",
-  "simp": "幺",
-  "pinyin": "Yāo",
-  "meanings": ["surname Yao"]
-}, {
   "trad": "們",
   "simp": "们",
   "pinyin": "men",
@@ -159,11 +144,6 @@
   "pinyin": "hěn",
   "meanings": ["(adverb of degree)", "quite", "very", "awfully"]
 }, {
-  "trad": "都",
-  "simp": "都",
-  "pinyin": "Dū",
-  "meanings": ["surname Du"]
-}, {
   "trad": "對",
   "simp": "对",
   "pinyin": "duì",
@@ -188,16 +168,6 @@
   "simp": "得",
   "pinyin": "dé",
   "meanings": ["to obtain", "to get", "to gain", "to catch (a disease)", "proper", "suitable", "proud", "contented", "to allow", "to permit", "ready", "finished"]
-}, {
-  "trad": "還",
-  "simp": "还",
-  "pinyin": "Huán",
-  "meanings": ["surname Huan"]
-}, {
-  "trad": "過",
-  "simp": "过",
-  "pinyin": "Guò",
-  "meanings": ["surname Guo"]
 }, {
   "trad": "不是",
   "simp": "不是",
@@ -249,20 +219,10 @@
   "pinyin": "háo",
   "meanings": ["roar", "cry"]
 }, {
-  "trad": "蘭",
-  "simp": "兰",
-  "pinyin": "Lán",
-  "meanings": ["surname Lan"]
-}, {
   "trad": "瑞",
   "simp": "瑞",
   "pinyin": "ruì",
   "meanings": ["lucky", "auspicious", "propitious", "rayl (acoustical unit)"]
-}, {
-  "trad": "達",
-  "simp": "达",
-  "pinyin": "Dá",
-  "meanings": ["surname Da"]
 }, {
   "trad": "或",
   "simp": "或",
@@ -278,11 +238,6 @@
   "simp": "蒂",
   "pinyin": "dì",
   "meanings": ["stem (of fruit)"]
-}, {
-  "trad": "別",
-  "simp": "别",
-  "pinyin": "Bié",
-  "meanings": ["surname Bie"]
 }, {
   "trad": "軍",
   "simp": "军",
@@ -309,21 +264,6 @@
   "pinyin": "bù yòng",
   "meanings": ["need not"]
 }, {
-  "trad": "三",
-  "simp": "三",
-  "pinyin": "Sān",
-  "meanings": ["surname San"]
-}, {
-  "trad": "樂",
-  "simp": "乐",
-  "pinyin": "Lè",
-  "meanings": ["surname Le"]
-}, {
-  "trad": "吉",
-  "simp": "吉",
-  "pinyin": "Jí",
-  "meanings": ["surname Ji"]
-}, {
   "trad": "男人",
   "simp": "男人",
   "pinyin": "nán rén",
@@ -333,11 +273,6 @@
   "simp": "告诉",
   "pinyin": "gào sù",
   "meanings": ["to press charges", "to file a complaint"]
-}, {
-  "trad": "路",
-  "simp": "路",
-  "pinyin": "Lù",
-  "meanings": ["surname Lu"]
 }, {
   "trad": "搞",
   "simp": "搞",
@@ -363,16 +298,6 @@
   "simp": "决",
   "pinyin": "jué",
   "meanings": ["to decide", "to determine", "to execute (sb)", "(of a dam etc) to breach or burst", "definitely", "certainly"]
-}, {
-  "trad": "金",
-  "simp": "金",
-  "pinyin": "Jīn",
-  "meanings": ["surname Jin", "surname Kim (Korean)", "Jurchen Jin dynasty (1115-1234)"]
-}, {
-  "trad": "史",
-  "simp": "史",
-  "pinyin": "Shǐ",
-  "meanings": ["surname Shi"]
 }, {
   "trad": "姆",
   "simp": "姆",
@@ -403,11 +328,6 @@
   "simp": "回家",
   "pinyin": "huí jiā",
   "meanings": ["to return home"]
-}, {
-  "trad": "貝",
-  "simp": "贝",
-  "pinyin": "Bèi",
-  "meanings": ["surname Bei"]
 }, {
   "trad": "如何",
   "simp": "如何",
@@ -519,11 +439,6 @@
   "pinyin": "dá",
   "meanings": ["dozen (loanword)"]
 }, {
-  "trad": "機",
-  "simp": "机",
-  "pinyin": "Jī",
-  "meanings": ["surname Ji"]
-}, {
   "trad": "用",
   "simp": "用",
   "pinyin": "yòng",
@@ -579,11 +494,6 @@
   "pinyin": "chū",
   "meanings": ["to go out", "to come out", "to occur", "to produce", "to go beyond", "to rise", "to put forth", "to happen", "(used after a verb to indicate an outward direction or a positive result)", "classifier for dramas, plays, operas etc"]
 }, {
-  "trad": "車",
-  "simp": "车",
-  "pinyin": "Chē",
-  "meanings": ["surname Che"]
-}, {
   "trad": "一下",
   "simp": "一下",
   "pinyin": "yī xià",
@@ -592,17 +502,12 @@
   "trad": "中",
   "simp": "中",
   "pinyin": "Zhōng",
-  "meanings": ["China", "Chinese", "surname Zhong"]
+  "meanings": ["China", "Chinese"]
 }, {
   "trad": "需要",
   "simp": "需要",
   "pinyin": "xū yào",
   "meanings": ["to need", "to want", "to demand", "to require", "requirement", "need"]
-}, {
-  "trad": "經",
-  "simp": "经",
-  "pinyin": "Jīng",
-  "meanings": ["surname Jing"]
 }, {
   "trad": "媽",
   "simp": "妈",
@@ -624,11 +529,6 @@
   "pinyin": "ér",
   "meanings": ["and", "as well as", "and so", "but (not)", "yet (not)", "(indicates causal relation)", "(indicates change of state)", "(indicates contrast)"]
 }, {
-  "trad": "錯",
-  "simp": "错",
-  "pinyin": "Cuò",
-  "meanings": ["surname Cuo"]
-}, {
   "trad": "間",
   "simp": "间",
   "pinyin": "jiān",
@@ -638,11 +538,6 @@
   "simp": "又",
   "pinyin": "yòu",
   "meanings": ["(once) again", "also", "both... and...", "and yet", "(used for emphasis) anyway"]
-}, {
-  "trad": "國",
-  "simp": "国",
-  "pinyin": "Guó",
-  "meanings": ["surname Guo"]
 }, {
   "trad": "起",
   "simp": "起",
@@ -658,11 +553,6 @@
   "simp": "杀",
   "pinyin": "shā",
   "meanings": ["to kill", "to murder", "to attack", "to weaken or reduce", "to smart (dialect)", "(used after a verb) extremely"]
-}, {
-  "trad": "于",
-  "simp": "于",
-  "pinyin": "Yú",
-  "meanings": ["surname Yu"]
 }, {
   "trad": "種",
   "simp": "种",
@@ -683,11 +573,6 @@
   "simp": "混蛋",
   "pinyin": "hún dàn",
   "meanings": ["scoundrel", "bastard", "hoodlum", "wretch"]
-}, {
-  "trad": "禮",
-  "simp": "礼",
-  "pinyin": "Lǐ",
-  "meanings": ["surname Li"]
 }, {
   "trad": "幹",
   "simp": "干",
@@ -729,11 +614,6 @@
   "pinyin": "duō shǎo",
   "meanings": ["number", "amount", "somewhat"]
 }, {
-  "trad": "海",
-  "simp": "海",
-  "pinyin": "Hǎi",
-  "meanings": ["surname Hai"]
-}, {
   "trad": "每",
   "simp": "每",
   "pinyin": "měi",
@@ -744,30 +624,15 @@
   "pinyin": "gē",
   "meanings": ["elder brother"]
 }, {
-  "trad": "教",
-  "simp": "教",
-  "pinyin": "Jiào",
-  "meanings": ["surname Jiao"]
-}, {
   "trad": "好像",
   "simp": "好像",
   "pinyin": "hǎo xiàng",
   "meanings": ["as if", "to seem like"]
 }, {
-  "trad": "單",
-  "simp": "单",
-  "pinyin": "Shàn",
-  "meanings": ["surname Shan"]
-}, {
   "trad": "公",
   "simp": "公",
   "pinyin": "gōng",
   "meanings": ["public", "collectively owned", "common", "international (e.g. high seas, metric system, calendar)", "make public", "fair", "just", "honorable (gentlemen)", "father-in-law", "male (animal)"]
-}, {
-  "trad": "林",
-  "simp": "林",
-  "pinyin": "Lín",
-  "meanings": ["surname Lin", "Japanese surname Hayashi"]
 }, {
   "trad": "女",
   "simp": "女",
@@ -778,16 +643,6 @@
   "simp": "忙",
   "pinyin": "máng",
   "meanings": ["busy", "hurriedly", "to hurry", "to rush"]
-}, {
-  "trad": "火",
-  "simp": "火",
-  "pinyin": "Huǒ",
-  "meanings": ["surname Huo"]
-}, {
-  "trad": "鍾",
-  "simp": "钟",
-  "pinyin": "Zhōng",
-  "meanings": ["surname Zhong"]
 }, {
   "trad": "科",
   "simp": "科",
@@ -804,20 +659,10 @@
   "pinyin": "zuì hòu",
   "meanings": ["final", "last", "finally", "ultimate"]
 }, {
-  "trad": "水",
-  "simp": "水",
-  "pinyin": "Shuǐ",
-  "meanings": ["surname Shui"]
-}, {
   "trad": "不管",
   "simp": "不管",
   "pinyin": "bù guǎn",
   "meanings": ["not to be concerned", "regardless of", "no matter"]
-}, {
-  "trad": "麥",
-  "simp": "麦",
-  "pinyin": "Mài",
-  "meanings": ["surname Mai"]
 }, {
   "trad": "瀉",
   "simp": "泻",
@@ -864,25 +709,10 @@
   "pinyin": "fēng",
   "meanings": ["wind", "news", "style", "custom", "manner"]
 }, {
-  "trad": "皮",
-  "simp": "皮",
-  "pinyin": "Pí",
-  "meanings": ["surname Pi"]
-}, {
   "trad": "威",
   "simp": "威",
   "pinyin": "wēi",
   "meanings": ["power", "might", "prestige"]
-}, {
-  "trad": "魯",
-  "simp": "鲁",
-  "pinyin": "Lǔ",
-  "meanings": ["surname Lu", "vassal state during the Zhou Dynasty (1066-221 BC) in modern day Shandong Province"]
-}, {
-  "trad": "相",
-  "simp": "相",
-  "pinyin": "Xiāng",
-  "meanings": ["surname Xiang"]
 }, {
   "trad": "地方",
   "simp": "地方",
@@ -1004,11 +834,6 @@
   "pinyin": "jī",
   "meanings": ["small table"]
 }, {
-  "trad": "題",
-  "simp": "题",
-  "pinyin": "Tí",
-  "meanings": ["surname Ti"]
-}, {
   "trad": "放",
   "simp": "放",
   "pinyin": "fàng",
@@ -1023,11 +848,6 @@
   "simp": "意思",
   "pinyin": "yì si",
   "meanings": ["idea", "opinion", "meaning", "wish", "desire", "interest", "fun", "token of appreciation, affection etc", "to give as a small token", "to do sth as a gesture of goodwill etc"]
-}, {
-  "trad": "成",
-  "simp": "成",
-  "pinyin": "Chéng",
-  "meanings": ["surname Cheng"]
 }, {
   "trad": "所有",
   "simp": "所有",
@@ -1073,11 +893,6 @@
   "simp": "裈",
   "pinyin": "kūn",
   "meanings": ["pants (old)"]
-}, {
-  "trad": "錢",
-  "simp": "钱",
-  "pinyin": "Qián",
-  "meanings": ["surname Qian"]
 }, {
   "trad": "面",
   "simp": "面",
@@ -1159,11 +974,6 @@
   "pinyin": "qiú",
   "meanings": ["to seek", "to look for", "to request", "to demand", "to beseech"]
 }, {
-  "trad": "束",
-  "simp": "束",
-  "pinyin": "Shù",
-  "meanings": ["surname Shu"]
-}, {
   "trad": "哇",
   "simp": "哇",
   "pinyin": "wā",
@@ -1173,16 +983,6 @@
   "simp": "指",
   "pinyin": "zhǐ",
   "meanings": ["finger", "to point at or to", "to indicate or refer to", "to depend on", "to count on", "(of hair) to stand on end"]
-}, {
-  "trad": "張",
-  "simp": "张",
-  "pinyin": "Zhāng",
-  "meanings": ["surname Zhang"]
-}, {
-  "trad": "文",
-  "simp": "文",
-  "pinyin": "Wén",
-  "meanings": ["surname Wen"]
 }, {
   "trad": "鋅",
   "simp": "锌",
@@ -1319,25 +1119,10 @@
   "pinyin": "bù kě néng",
   "meanings": ["impossible", "cannot", "not able"]
 }, {
-  "trad": "坐",
-  "simp": "坐",
-  "pinyin": "Zuò",
-  "meanings": ["surname Zuo"]
-}, {
-  "trad": "區",
-  "simp": "区",
-  "pinyin": "Ōu",
-  "meanings": ["surname Ou"]
-}, {
   "trad": "果",
   "simp": "果",
   "pinyin": "guǒ",
   "meanings": ["fruit", "result", "resolute", "indeed", "if really"]
-}, {
-  "trad": "羅",
-  "simp": "罗",
-  "pinyin": "Luó",
-  "meanings": ["surname Luo"]
 }, {
   "trad": "難",
   "simp": "难",
@@ -1369,11 +1154,6 @@
   "pinyin": "nu:3 rén",
   "meanings": ["woman"]
 }, {
-  "trad": "向",
-  "simp": "向",
-  "pinyin": "Xiàng",
-  "meanings": ["surname Xiang"]
-}, {
   "trad": "最好",
   "simp": "最好",
   "pinyin": "zuì hǎo",
@@ -1384,25 +1164,10 @@
   "pinyin": "xié",
   "meanings": ["flank (the side of one's torso)", "to coerce", "to threaten"]
 }, {
-  "trad": "明",
-  "simp": "明",
-  "pinyin": "Míng",
-  "meanings": ["Ming Dynasty (1368-1644)", "surname Ming"]
-}, {
   "trad": "理",
   "simp": "理",
   "pinyin": "lǐ",
   "meanings": ["texture", "grain (of wood)", "inner essence", "intrinsic order", "reason", "logic", "truth", "science", "natural science (esp. physics)", "to manage", "to pay attention to", "to run (affairs)", "to handle", "to put in order", "to tidy up"]
-}, {
-  "trad": "加",
-  "simp": "加",
-  "pinyin": "Jiā",
-  "meanings": ["surname Jia"]
-}, {
-  "trad": "槍",
-  "simp": "枪",
-  "pinyin": "Qiāng",
-  "meanings": ["surname Qiang"]
 }, {
   "trad": "員",
   "simp": "员",
@@ -1427,7 +1192,7 @@
   "trad": "巴",
   "simp": "巴",
   "pinyin": "Bā",
-  "meanings": ["Ba state during Zhou dynasty (in east of modern Sichuan)", "abbr. for east Sichuan or Chongqing", "surname Ba", "abbr. for Palestine or Palestinian", "abbr. for Pakistan"]
+  "meanings": ["abbr. for east Sichuan or Chongqing", "abbr. for Palestine or Palestinian", "abbr. for Pakistan"]
 }, {
   "trad": "而且",
   "simp": "而且",
@@ -1444,11 +1209,6 @@
   "pinyin": "shāng",
   "meanings": ["to injure", "injury", "wound"]
 }, {
-  "trad": "官",
-  "simp": "官",
-  "pinyin": "Guān",
-  "meanings": ["surname Guan"]
-}, {
   "trad": "道",
   "simp": "道",
   "pinyin": "dào",
@@ -1458,11 +1218,6 @@
   "simp": "出去",
   "pinyin": "chū qù",
   "meanings": ["to go out"]
-}, {
-  "trad": "力",
-  "simp": "力",
-  "pinyin": "Lì",
-  "meanings": ["surname Li"]
 }, {
   "trad": "總",
   "simp": "总",
@@ -1514,16 +1269,6 @@
   "pinyin": "dào liǎo",
   "meanings": ["at last", "finally", "in the end"]
 }, {
-  "trad": "解",
-  "simp": "解",
-  "pinyin": "Xiè",
-  "meanings": ["surname Xie"]
-}, {
-  "trad": "新",
-  "simp": "新",
-  "pinyin": "Xīn",
-  "meanings": ["surname Xin"]
-}, {
   "trad": "隊",
   "simp": "队",
   "pinyin": "duì",
@@ -1559,11 +1304,6 @@
   "pinyin": "xié",
   "meanings": ["harmonious"]
 }, {
-  "trad": "嚴",
-  "simp": "严",
-  "pinyin": "Yán",
-  "meanings": ["surname Yan"]
-}, {
   "trad": "且",
   "simp": "且",
   "pinyin": "qiě",
@@ -1584,11 +1324,6 @@
   "pinyin": "Fó",
   "meanings": ["Buddha", "Buddhism"]
 }, {
-  "trad": "直",
-  "simp": "直",
-  "pinyin": "Zhí",
-  "meanings": ["surname Zhi"]
-}, {
   "trad": "認為",
   "simp": "认为",
   "pinyin": "rèn wéi",
@@ -1599,20 +1334,10 @@
   "pinyin": "lǎo pó",
   "meanings": ["(coll.) wife"]
 }, {
-  "trad": "索",
-  "simp": "索",
-  "pinyin": "Suǒ",
-  "meanings": ["surname Suo"]
-}, {
   "trad": "除了",
   "simp": "除了",
   "pinyin": "chú le",
   "meanings": ["besides", "apart from (... also...)", "in addition to", "except (for)"]
-}, {
-  "trad": "承",
-  "simp": "承",
-  "pinyin": "Chéng",
-  "meanings": ["surname Cheng"]
 }, {
   "trad": "泰",
   "simp": "泰",
@@ -1627,7 +1352,7 @@
   "trad": "歐",
   "simp": "欧",
   "pinyin": "Ōu",
-  "meanings": ["Europe", "surname Ou"]
+  "meanings": ["Europe"]
 }, {
   "trad": "級",
   "simp": "级",
@@ -1638,11 +1363,6 @@
   "simp": "昨晚",
   "pinyin": "zuó wǎn",
   "meanings": ["yesterday evening", "last night"]
-}, {
-  "trad": "石",
-  "simp": "石",
-  "pinyin": "Shí",
-  "meanings": ["surname Shi"]
 }, {
   "trad": "有了",
   "simp": "有了",
@@ -1694,11 +1414,6 @@
   "pinyin": "quán bù",
   "meanings": ["whole", "entire", "complete"]
 }, {
-  "trad": "組",
-  "simp": "组",
-  "pinyin": "Zǔ",
-  "meanings": ["surname Zu"]
-}, {
   "trad": "也許",
   "simp": "也许",
   "pinyin": "yě xǔ",
@@ -1719,11 +1434,6 @@
   "pinyin": "lǐng",
   "meanings": ["neck", "collar", "to lead", "to receive", "classifier for clothes, mats, screens etc"]
 }, {
-  "trad": "顧",
-  "simp": "顾",
-  "pinyin": "Gù",
-  "meanings": ["surname Gu"]
-}, {
   "trad": "市",
   "simp": "市",
   "pinyin": "shì",
@@ -1743,16 +1453,6 @@
   "simp": "滚",
   "pinyin": "gǔn",
   "meanings": ["to boil", "to roll", "to take a hike", "Get lost!"]
-}, {
-  "trad": "師",
-  "simp": "师",
-  "pinyin": "Shī",
-  "meanings": ["surname Shi"]
-}, {
-  "trad": "高",
-  "simp": "高",
-  "pinyin": "Gāo",
-  "meanings": ["surname Gao"]
 }, {
   "trad": "莉",
   "simp": "莉",
@@ -1794,35 +1494,15 @@
   "pinyin": "zhī qián",
   "meanings": ["before", "prior to", "ago", "previously", "beforehand"]
 }, {
-  "trad": "談",
-  "simp": "谈",
-  "pinyin": "Tán",
-  "meanings": ["surname Tan"]
-}, {
   "trad": "送",
   "simp": "送",
   "pinyin": "sòng",
   "meanings": ["to deliver", "to carry", "to give (as a present)", "to present (with)", "to see off", "to send"]
 }, {
-  "trad": "森",
-  "simp": "森",
-  "pinyin": "Sēn",
-  "meanings": ["Mori (Japanese surname)"]
-}, {
-  "trad": "伊",
-  "simp": "伊",
-  "pinyin": "Yī",
-  "meanings": ["surname Yi"]
-}, {
   "trad": "以前",
   "simp": "以前",
   "pinyin": "yǐ qián",
   "meanings": ["before", "formerly", "previous", "ago"]
-}, {
-  "trad": "房",
-  "simp": "房",
-  "pinyin": "Fáng",
-  "meanings": ["surname Fang"]
 }, {
   "trad": "婚",
   "simp": "婚",
@@ -1843,11 +1523,6 @@
   "simp": "今晚",
   "pinyin": "jīn wǎn",
   "meanings": ["tonight"]
-}, {
-  "trad": "興",
-  "simp": "兴",
-  "pinyin": "Xīng",
-  "meanings": ["surname Xing"]
 }, {
   "trad": "瘋",
   "simp": "疯",
@@ -1899,16 +1574,6 @@
   "pinyin": "dào dǐ",
   "meanings": ["finally", "in the end", "when all is said and done", "after all", "to the end", "to the last"]
 }, {
-  "trad": "雷",
-  "simp": "雷",
-  "pinyin": "Léi",
-  "meanings": ["surname Lei"]
-}, {
-  "trad": "維",
-  "simp": "维",
-  "pinyin": "Wéi",
-  "meanings": ["surname Wei"]
-}, {
   "trad": "條",
   "simp": "条",
   "pinyin": "tiáo",
@@ -1932,7 +1597,7 @@
   "trad": "洛",
   "simp": "洛",
   "pinyin": "Luò",
-  "meanings": ["surname Luo", "old name of several rivers (in Henan, Shaanxi, Sichuan and Anhui)"]
+  "meanings": ["old name of several rivers (in Henan, Shaanxi, Sichuan and Anhui)"]
 }, {
   "trad": "護",
   "simp": "护",
@@ -1974,11 +1639,6 @@
   "pinyin": "yīn",
   "meanings": ["sound", "noise", "note (of musical scale)", "tone", "news", "syllable", "reading (phonetic value of a character)"]
 }, {
-  "trad": "從",
-  "simp": "从",
-  "pinyin": "Cóng",
-  "meanings": ["surname Cong"]
-}, {
   "trad": "生",
   "simp": "生",
   "pinyin": "shēng",
@@ -1993,11 +1653,6 @@
   "simp": "可",
   "pinyin": "kě",
   "meanings": ["can", "may", "able to", "to approve", "to permit", "to suit", "(particle used for emphasis) certainly", "very"]
-}, {
-  "trad": "東",
-  "simp": "东",
-  "pinyin": "Dōng",
-  "meanings": ["surname Dong"]
 }, {
   "trad": "他們",
   "simp": "他们",
@@ -2039,25 +1694,10 @@
   "pinyin": "xià",
   "meanings": ["down", "downwards", "below", "lower", "later", "next (week etc)", "second (of two parts)", "to decline", "to go down", "to arrive at (a decision, conclusion etc)", "measure word to show the frequency of an action"]
 }, {
-  "trad": "馬",
-  "simp": "马",
-  "pinyin": "Mǎ",
-  "meanings": ["surname Ma"]
-}, {
-  "trad": "利",
-  "simp": "利",
-  "pinyin": "Lì",
-  "meanings": ["surname Li"]
-}, {
   "trad": "所以",
   "simp": "所以",
   "pinyin": "suǒ yǐ",
   "meanings": ["therefore", "as a result", "so", "the reason why"]
-}, {
-  "trad": "關",
-  "simp": "关",
-  "pinyin": "Guān",
-  "meanings": ["surname Guan"]
 }, {
   "trad": "哪",
   "simp": "哪",
@@ -2134,16 +1774,6 @@
   "pinyin": "qǐng",
   "meanings": ["to ask", "to invite", "please (do sth)", "to treat (to a meal etc)", "to request"]
 }, {
-  "trad": "許",
-  "simp": "许",
-  "pinyin": "Xǔ",
-  "meanings": ["surname Xu"]
-}, {
-  "trad": "年",
-  "simp": "年",
-  "pinyin": "Nián",
-  "meanings": ["surname Nian"]
-}, {
   "trad": "那些",
   "simp": "那些",
   "pinyin": "nà xiē",
@@ -2204,20 +1834,10 @@
   "pinyin": "pài",
   "meanings": ["clique", "school", "group", "faction", "to dispatch", "to send", "to assign", "to appoint", "pi (Greek letter Ππ)", "the circular ratio pi = 3.1415926", "(loanword) pie"]
 }, {
-  "trad": "士",
-  "simp": "士",
-  "pinyin": "Shì",
-  "meanings": ["surname Shi"]
-}, {
   "trad": "器",
   "simp": "器",
   "pinyin": "qì",
   "meanings": ["device", "tool", "utensil"]
-}, {
-  "trad": "松",
-  "simp": "松",
-  "pinyin": "Sōng",
-  "meanings": ["surname Song"]
 }, {
   "trad": "數",
   "simp": "数",
@@ -2259,11 +1879,6 @@
   "pinyin": "yǐng",
   "meanings": ["picture", "image", "film", "movie", "photograph", "reflection", "shadow", "trace"]
 }, {
-  "trad": "室",
-  "simp": "室",
-  "pinyin": "Shì",
-  "meanings": ["surname Shi"]
-}, {
   "trad": "受",
   "simp": "受",
   "pinyin": "shòu",
@@ -2289,11 +1904,6 @@
   "pinyin": "wǎn shang",
   "meanings": ["evening", "night", "in the evening"]
 }, {
-  "trad": "應",
-  "simp": "应",
-  "pinyin": "Yìng",
-  "meanings": ["surname Ying"]
-}, {
   "trad": "小姐",
   "simp": "小姐",
   "pinyin": "xiǎo jie",
@@ -2303,16 +1913,6 @@
   "simp": "整",
   "pinyin": "zhěng",
   "meanings": ["exactly", "in good order", "whole", "complete", "entire", "in order", "orderly", "to repair", "to mend", "to renovate", "(coll.) to fix sb", "to give sb a hard time", "to mess with sb"]
-}, {
-  "trad": "強",
-  "simp": "强",
-  "pinyin": "Qiáng",
-  "meanings": ["surname Qiang"]
-}, {
-  "trad": "業",
-  "simp": "业",
-  "pinyin": "Yè",
-  "meanings": ["surname Ye"]
 }, {
   "trad": "類",
   "simp": "类",
@@ -2333,11 +1933,6 @@
   "simp": "梦",
   "pinyin": "mèng",
   "meanings": ["dream"]
-}, {
-  "trad": "曾",
-  "simp": "曾",
-  "pinyin": "Zēng",
-  "meanings": ["surname Zeng"]
 }, {
   "trad": "嘴",
   "simp": "嘴",
@@ -2414,16 +2009,6 @@
   "pinyin": "má",
   "meanings": ["hemp"]
 }, {
-  "trad": "游",
-  "simp": "游",
-  "pinyin": "Yóu",
-  "meanings": ["surname You"]
-}, {
-  "trad": "戴",
-  "simp": "戴",
-  "pinyin": "Dài",
-  "meanings": ["surname Dai"]
-}, {
   "trad": "莎",
   "simp": "莎",
   "pinyin": "shā",
@@ -2444,20 +2029,10 @@
   "pinyin": "xiè",
   "meanings": ["crab"]
 }, {
-  "trad": "費",
-  "simp": "费",
-  "pinyin": "Fèi",
-  "meanings": ["surname Fei"]
-}, {
   "trad": "靠",
   "simp": "靠",
   "pinyin": "kào",
   "meanings": ["to lean against or on", "to stand by the side of", "to come near to", "to depend on", "to trust", "to fuck (vulgar)", "traditional military costume drama where the performers wear armor (old)"]
-}, {
-  "trad": "全",
-  "simp": "全",
-  "pinyin": "Quán",
-  "meanings": ["surname Quan"]
 }, {
   "trad": "反",
   "simp": "反",
@@ -2484,11 +2059,6 @@
   "pinyin": "jú",
   "meanings": ["narrow"]
 }, {
-  "trad": "莫",
-  "simp": "莫",
-  "pinyin": "Mò",
-  "meanings": ["surname Mo"]
-}, {
   "trad": "命",
   "simp": "命",
   "pinyin": "mìng",
@@ -2503,11 +2073,6 @@
   "simp": "性",
   "pinyin": "xìng",
   "meanings": ["nature", "character", "property", "quality", "attribute", "sexuality", "sex", "gender", "suffix forming adjective from verb", "suffix forming noun from adjective, corresponding to -ness or -ity", "essence"]
-}, {
-  "trad": "常",
-  "simp": "常",
-  "pinyin": "Cháng",
-  "meanings": ["surname Chang"]
 }, {
   "trad": "萊",
   "simp": "莱",
@@ -2629,11 +2194,6 @@
   "pinyin": "lún",
   "meanings": ["human relationship", "order", "coherence"]
 }, {
-  "trad": "花",
-  "simp": "花",
-  "pinyin": "Huā",
-  "meanings": ["surname Hua"]
-}, {
   "trad": "續",
   "simp": "续",
   "pinyin": "xù",
@@ -2653,11 +2213,6 @@
   "simp": "房子",
   "pinyin": "fáng zi",
   "meanings": ["house", "building (single- or two-story)", "apartment", "room"]
-}, {
-  "trad": "何",
-  "simp": "何",
-  "pinyin": "Hé",
-  "meanings": ["surname He"]
 }, {
   "trad": "由",
   "simp": "由",
@@ -2693,11 +2248,6 @@
   "simp": "务",
   "pinyin": "wù",
   "meanings": ["affair", "business", "matter", "to be engaged in", "to attend to", "by all means"]
-}, {
-  "trad": "原",
-  "simp": "原",
-  "pinyin": "Yuán",
-  "meanings": ["Hara (Japanese surname)"]
 }, {
   "trad": "失",
   "simp": "失",
@@ -2754,11 +2304,6 @@
   "pinyin": "nī",
   "meanings": ["girl", "phonetic \"ni\" (in female names)"]
 }, {
-  "trad": "凱",
-  "simp": "凯",
-  "pinyin": "Kǎi",
-  "meanings": ["surname Kai"]
-}, {
   "trad": "衣服",
   "simp": "衣服",
   "pinyin": "yī fu",
@@ -2803,11 +2348,6 @@
   "simp": "赛",
   "pinyin": "sài",
   "meanings": ["to compete", "competition", "match", "to surpass", "better than", "superior to", "to excel"]
-}, {
-  "trad": "任",
-  "simp": "任",
-  "pinyin": "Rén",
-  "meanings": ["surname Ren"]
 }, {
   "trad": "色",
   "simp": "色",
@@ -2859,11 +2399,6 @@
   "pinyin": "yú",
   "meanings": ["loose garment"]
 }, {
-  "trad": "周",
-  "simp": "周",
-  "pinyin": "Zhōu",
-  "meanings": ["surname Zhou", "Zhou Dynasty (1046-256 BC)"]
-}, {
   "trad": "控制",
   "simp": "控制",
   "pinyin": "kòng zhì",
@@ -2889,20 +2424,10 @@
   "pinyin": "bàn",
   "meanings": ["half", "semi-", "incomplete", "(after a number) and a half"]
 }, {
-  "trad": "白",
-  "simp": "白",
-  "pinyin": "Bái",
-  "meanings": ["surname Bai"]
-}, {
   "trad": "釋",
   "simp": "释",
   "pinyin": "shì",
   "meanings": ["to explain", "to release", "Buddhism"]
-}, {
-  "trad": "能",
-  "simp": "能",
-  "pinyin": "Néng",
-  "meanings": ["surname Neng"]
 }, {
   "trad": "而已",
   "simp": "而已",
@@ -2948,11 +2473,6 @@
   "simp": "拜",
   "pinyin": "bài",
   "meanings": ["to pay respect", "worship", "visit", "salute"]
-}, {
-  "trad": "時",
-  "simp": "时",
-  "pinyin": "Shí",
-  "meanings": ["surname Shi"]
 }, {
   "trad": "講",
   "simp": "讲",
@@ -3029,25 +2549,10 @@
   "pinyin": "shēng mìng",
   "meanings": ["life (as the characteristic of living beings)", "living being", "creature"]
 }, {
-  "trad": "王",
-  "simp": "王",
-  "pinyin": "Wáng",
-  "meanings": ["surname Wang"]
-}, {
   "trad": "助",
   "simp": "助",
   "pinyin": "zhù",
   "meanings": ["to help", "to assist"]
-}, {
-  "trad": "喬",
-  "simp": "乔",
-  "pinyin": "Qiáo",
-  "meanings": ["surname Qiao"]
-}, {
-  "trad": "義",
-  "simp": "义",
-  "pinyin": "Yì",
-  "meanings": ["surname Yi"]
 }, {
   "trad": "回到",
   "simp": "回到",
@@ -3059,20 +2564,10 @@
   "pinyin": "qīng chu",
   "meanings": ["clear", "distinct", "to understand thoroughly", "to be clear about"]
 }, {
-  "trad": "冷",
-  "simp": "冷",
-  "pinyin": "Lěng",
-  "meanings": ["surname Leng"]
-}, {
   "trad": "原因",
   "simp": "原因",
   "pinyin": "yuán yīn",
   "meanings": ["cause", "origin", "root cause", "reason"]
-}, {
-  "trad": "付",
-  "simp": "付",
-  "pinyin": "Fù",
-  "meanings": ["surname Fu"]
 }, {
   "trad": "狂",
   "simp": "狂",
@@ -3088,11 +2583,6 @@
   "simp": "超",
   "pinyin": "chāo",
   "meanings": ["to exceed", "to overtake", "to surpass", "to transcend", "to pass", "to cross", "ultra-", "super-"]
-}, {
-  "trad": "懷",
-  "simp": "怀",
-  "pinyin": "Huái",
-  "meanings": ["surname Huai"]
 }, {
   "trad": "使",
   "simp": "使",
@@ -3118,11 +2608,6 @@
   "simp": "四",
   "pinyin": "sì",
   "meanings": ["four", "4"]
-}, {
-  "trad": "樓",
-  "simp": "楼",
-  "pinyin": "Lóu",
-  "meanings": ["surname Lou"]
 }, {
   "trad": "另一",
   "simp": "另一",
@@ -3204,11 +2689,6 @@
   "pinyin": "jià",
   "meanings": ["price", "value", "(chemistry) valence"]
 }, {
-  "trad": "包",
-  "simp": "包",
-  "pinyin": "Bāo",
-  "meanings": ["surname Bao"]
-}, {
   "trad": "等",
   "simp": "等",
   "pinyin": "děng",
@@ -3223,11 +2703,6 @@
   "simp": "准",
   "pinyin": "zhǔn",
   "meanings": ["to allow", "to grant", "in accordance with", "in the light of"]
-}, {
-  "trad": "查",
-  "simp": "查",
-  "pinyin": "Zhā",
-  "meanings": ["surname Zha"]
 }, {
   "trad": "卡",
   "simp": "卡",
@@ -3263,11 +2738,6 @@
   "simp": "想要",
   "pinyin": "xiǎng yào",
   "meanings": ["to want to", "to feel like", "to fancy", "to care for sb", "desirous of"]
-}, {
-  "trad": "安",
-  "simp": "安",
-  "pinyin": "Ān",
-  "meanings": ["surname An"]
 }, {
   "trad": "並",
   "simp": "并",
@@ -3329,11 +2799,6 @@
   "pinyin": "xì",
   "meanings": ["to connect", "to relate to", "to tie up", "to bind", "to be (literary)"]
 }, {
-  "trad": "后",
-  "simp": "后",
-  "pinyin": "Hòu",
-  "meanings": ["surname Hou"]
-}, {
   "trad": "親",
   "simp": "亲",
   "pinyin": "qīn",
@@ -3349,11 +2814,6 @@
   "pinyin": "bù",
   "meanings": ["to announce", "to spread"]
 }, {
-  "trad": "計",
-  "simp": "计",
-  "pinyin": "Jì",
-  "meanings": ["surname Ji"]
-}, {
   "trad": "找到",
   "simp": "找到",
   "pinyin": "zhǎo dào",
@@ -3362,32 +2822,17 @@
   "trad": "老",
   "simp": "老",
   "pinyin": "lǎo",
-  "meanings": ["prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity", "old (of people)", "venerable (person)", "experienced", "of long standing", "always", "all the time", "of the past", "very", "outdated", "(of meat etc) tough"]
-}, {
-  "trad": "艾",
-  "simp": "艾",
-  "pinyin": "Ài",
-  "meanings": ["surname Ai"]
+  "meanings": ["old (of people)", "venerable (person)", "experienced", "of long standing", "always", "all the time", "of the past", "very", "outdated", "(of meat etc) tough"]
 }, {
   "trad": "意",
   "simp": "意",
   "pinyin": "Yì",
   "meanings": ["Italy", "Italian"]
 }, {
-  "trad": "門",
-  "simp": "门",
-  "pinyin": "Mén",
-  "meanings": ["surname Men"]
-}, {
   "trad": "啦",
   "simp": "啦",
   "pinyin": "lā",
   "meanings": ["(onom.) sound of singing, cheering etc", "(phonetic)", "(dialect) to chat"]
-}, {
-  "trad": "米",
-  "simp": "米",
-  "pinyin": "Mǐ",
-  "meanings": ["surname Mi"]
 }, {
   "trad": "本",
   "simp": "本",
@@ -3424,30 +2869,10 @@
   "pinyin": "cāi",
   "meanings": ["to guess"]
 }, {
-  "trad": "福",
-  "simp": "福",
-  "pinyin": "Fú",
-  "meanings": ["surname Fu"]
-}, {
   "trad": "打算",
   "simp": "打算",
   "pinyin": "dǎ suàn",
   "meanings": ["to plan", "to intend", "to calculate", "plan", "intention", "calculation"]
-}, {
-  "trad": "危",
-  "simp": "危",
-  "pinyin": "Wēi",
-  "meanings": ["surname Wei"]
-}, {
-  "trad": "連",
-  "simp": "连",
-  "pinyin": "Lián",
-  "meanings": ["surname Lian"]
-}, {
-  "trad": "怕",
-  "simp": "怕",
-  "pinyin": "Pà",
-  "meanings": ["surname Pa"]
 }, {
   "trad": "爭",
   "simp": "争",
@@ -3552,7 +2977,7 @@
   "trad": "代",
   "simp": "代",
   "pinyin": "dài",
-  "meanings": ["to substitute", "to act on behalf of others", "to replace", "generation", "dynasty", "age", "period", "(historical) era", "(geological) eon"]
+  "meanings": ["to substitute", "to act on behalf of others", "to replace", "generation", "age", "period", "(historical) era", "(geological) eon"]
 }, {
   "trad": "濛",
   "simp": "蒙",
@@ -3564,20 +2989,10 @@
   "pinyin": "zhuā zhù",
   "meanings": ["to grab", "to capture"]
 }, {
-  "trad": "山",
-  "simp": "山",
-  "pinyin": "Shān",
-  "meanings": ["surname Shan"]
-}, {
   "trad": "拍",
   "simp": "拍",
   "pinyin": "pāi",
   "meanings": ["to pat", "to clap", "to slap", "to swat", "to take (a photo)", "to shoot (a film)", "racket (sports)", "beat (music)"]
-}, {
-  "trad": "沙",
-  "simp": "沙",
-  "pinyin": "Shā",
-  "meanings": ["surname Sha"]
 }, {
   "trad": "妻子",
   "simp": "妻子",
@@ -3609,11 +3024,6 @@
   "pinyin": "xīng",
   "meanings": ["star", "heavenly body", "satellite", "small amount"]
 }, {
-  "trad": "權",
-  "simp": "权",
-  "pinyin": "Quán",
-  "meanings": ["surname Quan"]
-}, {
   "trad": "術",
   "simp": "术",
   "pinyin": "shù",
@@ -3644,30 +3054,15 @@
   "pinyin": "cōng",
   "meanings": ["quick at hearing", "wise", "clever", "sharp-witted", "intelligent", "acute"]
 }, {
-  "trad": "隨",
-  "simp": "随",
-  "pinyin": "Suí",
-  "meanings": ["surname Sui"]
-}, {
   "trad": "登",
   "simp": "登",
   "pinyin": "dēng",
   "meanings": ["to scale (a height)", "to ascend", "to mount", "to publish or record", "to enter (e.g. in a register)", "to press down with the foot", "to step or tread on", "to put on (shoes or trousers) (dialect)", "to be gathered and taken to the threshing ground (old)"]
 }, {
-  "trad": "班",
-  "simp": "班",
-  "pinyin": "Bān",
-  "meanings": ["surname Ban"]
-}, {
   "trad": "二",
   "simp": "二",
   "pinyin": "èr",
   "meanings": ["two", "2", "(Beijing dialect) stupid"]
-}, {
-  "trad": "錄",
-  "simp": "录",
-  "pinyin": "Lù",
-  "meanings": ["surname Lu"]
 }, {
   "trad": "武器",
   "simp": "武器",
@@ -3744,11 +3139,6 @@
   "pinyin": "biǎo",
   "meanings": ["exterior surface", "family relationship via females", "to show (one's opinion)", "a model", "a table (listing information)", "a form", "a meter (measuring sth)"]
 }, {
-  "trad": "衛",
-  "simp": "卫",
-  "pinyin": "Wèi",
-  "meanings": ["surname Wei", "vassal state during the Zhou Dynasty (1066-221 BC), located in present day Henan and Hebei Provinces"]
-}, {
   "trad": "太太",
   "simp": "太太",
   "pinyin": "tài tai",
@@ -3792,7 +3182,7 @@
   "trad": "薩",
   "simp": "萨",
   "pinyin": "Sà",
-  "meanings": ["Bodhisattva", "surname Sa"]
+  "meanings": ["Bodhisattva"]
 }, {
   "trad": "賣",
   "simp": "卖",
@@ -3832,12 +3222,7 @@
   "trad": "密",
   "simp": "密",
   "pinyin": "Mì",
-  "meanings": ["surname Mi", "name of an ancient state"]
-}, {
-  "trad": "魚",
-  "simp": "鱼",
-  "pinyin": "Yú",
-  "meanings": ["surname Yu"]
+  "meanings": ["name of an ancient state"]
 }, {
   "trad": "不再",
   "simp": "不再",
@@ -3944,11 +3329,6 @@
   "pinyin": "mǎ",
   "meanings": ["agate", "cornelian"]
 }, {
-  "trad": "方",
-  "simp": "方",
-  "pinyin": "Fāng",
-  "meanings": ["surname Fang"]
-}, {
   "trad": "完成",
   "simp": "完成",
   "pinyin": "wán chéng",
@@ -4008,11 +3388,6 @@
   "simp": "多久",
   "pinyin": "duō jiǔ",
   "meanings": ["how long?"]
-}, {
-  "trad": "紅",
-  "simp": "红",
-  "pinyin": "Hóng",
-  "meanings": ["surname Hong"]
 }, {
   "trad": "事",
   "simp": "事",
@@ -4118,11 +3493,6 @@
   "simp": "告",
   "pinyin": "gào",
   "meanings": ["to say", "to tell", "to announce", "to report", "to denounce", "to file a lawsuit", "to sue"]
-}, {
-  "trad": "謝",
-  "simp": "谢",
-  "pinyin": "Xiè",
-  "meanings": ["surname Xie"]
 }, {
   "trad": "哦",
   "simp": "哦",

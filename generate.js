@@ -33,11 +33,13 @@ const selectBestEntryHelper = (arr) => {
 const removeUnwantedMeanings = (json) => {
   const chineseRegex = /[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f]/;
   const bracketsRegex = /\[.*\]/;
+  const namesRegex = /surname|dynasty/i;
   return json.map(word => ({
     ...word,
     meanings: word.meanings
       .filter(meaning => !meaning.match(chineseRegex))
-      .filter(meaning => !meaning.match(bracketsRegex)),
+      .filter(meaning => !meaning.match(bracketsRegex))
+      .filter(meaning => !meaning.match(namesRegex)),
   }))
     .filter(word => word.meanings.length > 0);
 };
