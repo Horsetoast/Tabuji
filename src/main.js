@@ -10,8 +10,5 @@ export default new Vue({
     return {
       message: 'test',
     };
-  },
-  mounted() {
-    console.log('wtf');
-  },
+  }
 });

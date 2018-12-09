@@ -26,7 +26,7 @@ export const getWordQuiz = (word, optionsCount = 4) => {
   const correctMeaning = getRandomWordMeaning(word);
   options.push(correctMeaning);
 
-    
+
   for (let i = 0; i < (optionsCount - 1); i++) {
     let word = getRandomWord();
     let meaning = getRandomWordMeaning(word);
@@ -37,5 +37,18 @@ export const getWordQuiz = (word, optionsCount = 4) => {
     options.push(meaning)
   }
 
-  return {options, correctOption: 0};
+  return {
+    options,
+    correctOption: 0
+  };
+}
+
+export const isSameDay = (d1, d2) => {
+  return d1.getFullYear() === d2.getFullYear() &&
+    d1.getMonth() === d2.getMonth() &&
+    d1.getDate() === d2.getDate();
+}
+
+export const isValidDate = (d) => {
+  return d instanceof Date && !isNaN(d);
 }

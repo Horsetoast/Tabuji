@@ -1,40 +1,43 @@
 <template>
-  <transition name="fade" appear mode="out-in">
-    <div id="wrapper" v-if="word && options.length" :key="word.trad">
-      <div id="word">
-        <h1>{{word.trad}}</h1>
-        <p class="word-pinyin">{{word.pinyin}}</p>
-      </div>
-      <div id="quiz-wrapper">
-        <div id="quiz">
-          <div id="quiz-header">
-            <transition name="fade" mode="out-in">
-              <p v-if="status === 'word_ready'" key="p1">Choose the correct meaning</p>
-              <p v-else-if="status === 'answered_wrong'" key="p2">Nopes. Try again?</p>
-              <p v-else-if="status === 'answered_correct'" key="p3">Correct!</p>
-            </transition>
-          </div>
-          <ul id="quiz-options">
-            <li
-              v-for="(option, i) in options"
-              :key="i"
-              class="options-item"
-              :class="{
+  <div id="wrapper">
+    <IOdometer v-if="score != null" id="score" :value="score" :duration="500"/>
+    <transition name="fade" appear mode="out-in">
+      <div id="container" v-if="word && options.length" :key="word.trad">
+        <div id="word">
+          <h1>{{word.trad}}</h1>
+          <p class="word-pinyin">{{word.pinyin}}</p>
+        </div>
+        <div id="quiz-wrapper">
+          <div id="quiz">
+            <div id="quiz-header">
+              <transition name="fade" mode="out-in">
+                <p v-if="status === 'word_ready'" key="p1">Choose the correct meaning</p>
+                <p v-else-if="status === 'answered_wrong'" key="p2">Nopes. Try again?</p>
+                <p v-else-if="status === 'answered_correct'" key="p3">Correct!</p>
+              </transition>
+            </div>
+            <ul id="quiz-options">
+              <li
+                v-for="(option, i) in options"
+                :key="i"
+                class="options-item"
+                :class="{
             'answered-wrong': guessed[i] && i !== correctOption,
             'answered-correct': guessed[i] && i === correctOption
           }"
-              @click="chooseAnswer(i)"
-            >
-              <span>{{ option }}</span>
-            </li>
-          </ul>
-        </div>
-        <div id="next-word" @click="nextQuiz" v-show="status === 'answered_correct'">
-          <span>Next word?</span>
+                @click="chooseAnswer(i)"
+              >
+                <span>{{ option }}</span>
+              </li>
+            </ul>
+          </div>
+          <div id="next-word" @click="nextQuiz" v-show="status === 'answered_correct'">
+            <span>Next word?</span>
+          </div>
         </div>
       </div>
-    </div>
-  </transition>
+    </transition>
+  </div>
 </template>
 
 <script>
@@ -42,14 +45,23 @@ import {
   getRandomColor,
   getRandomWord,
   getRandomWordMeaning,
-  getWordQuiz
+  getWordQuiz,
+  isSameDay,
+  isValidDate
 } from "../helpers.js";
+import IOdometer from "vue-odometer";
+import "odometer/themes/odometer-theme-default.css";
 
 export default {
+  components: {
+    IOdometer
+  },
   data() {
     return {
       status: "no_word",
       bgColor: null,
+      score: null,
+      lastDay: null,
       word: {
         meanings: [],
         trad: null,
@@ -68,7 +80,17 @@ export default {
     console.log("created");
     chrome.storage.sync.get(null, data => {
       console.log("Loaded", data);
-      const { word, options, correctOption, bgColor } = data;
+      const { word, options, correctOption, bgColor, score, lastDate } = data;
+      this.score = score;
+      let now = new Date();
+      this.lastDate = isValidDate(lastDate) ? lastDate : new Date();
+      // now.setDate(now.getDate()+1);
+      console.log("Last date", this.lastDate);
+      console.log("Now date", now);
+      // now = new Date();
+      if (!isSameDay(this.lastDate, now)) {
+        this.resetScore();
+      }
       if (word != null && options != null && correctOption != null) {
         this.word = word;
         this.options = options;
@@ -95,6 +117,7 @@ export default {
       if (index === this.correctOption) {
         this.status = "answered_correct";
         this.clearStoredQuiz();
+        this.updateScore();
       } else {
         this.status = "answered_wrong";
       }
@@ -110,7 +133,7 @@ export default {
       this.bgColor = getRandomColor();
       if (!document.body.style["transition"]) {
         document.body.style["transition"] = "background-color 1s ease-in";
-      }      
+      }
       this.status = "word_ready";
       this.guessed = {};
       this.saveQuiz();
@@ -140,6 +163,32 @@ export default {
           console.log("Quiz saved to storage");
         }
       );
+    },
+    updateScore() {
+      this.score += 1;
+      const lastDate = new Date();
+      chrome.storage.sync.set(
+        {
+          score: this.score,
+          lastDate
+        },
+        () => {
+          console.log("Score updated in storage");
+        }
+      );
+    },
+    resetScore() {
+      const lastDate = new Date();
+      this.score = 0;
+      chrome.storage.sync.set(
+        {
+          score: 0,
+          lastDate
+        },
+        () => {
+          console.log("Score reset in storage");
+        }
+      );
     }
   }
 };
@@ -149,21 +198,21 @@ export default {
 @keyframes fade-in {
   0% {
     opacity: 0;
-    transform: translateX(-10px)
+    transform: translateX(-10px);
   }
   100% {
     opacity: 1;
-    transform: translateX(0)
+    transform: translateX(0);
   }
 }
 @keyframes fade-out {
   0% {
     opacity: 1;
-    transform: translateX(0)
+    transform: translateX(0);
   }
   100% {
     opacity: 0;
-    transform: translateX(10px)
+    transform: translateX(10px);
   }
 }
 @keyframes shake {
@@ -197,7 +246,40 @@ body {
 }
 
 #wrapper {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+#score {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.3);
+  display: block;
+  padding: 0 16px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  color: #fff;
+  font-weight: 500;
+  border-radius: 25px;
+  overflow: hidden;
+  transition: all 0.5s;
+  * {
+    transition: all 0.5s;
+  }
+  &.odometer-animating {
+    background: #68c752;
+    transform: scale(1.1);
+  }
+}
+
+#container {
   width: 50%;
+  height: 100%;
   margin: 0 auto;
   display: flex;
   justify-content: center;
