@@ -61,7 +61,6 @@ export default {
       status: "no_word",
       bgColor: null,
       score: null,
-      lastDay: null,
       word: {
         meanings: [],
         trad: null,
@@ -77,18 +76,15 @@ export default {
     bgColor: "setBgColor"
   },
   created() {
-    console.log("created");
     chrome.storage.sync.get(null, data => {
       console.log("Loaded", data);
-      const { word, options, correctOption, bgColor, score, lastDate } = data;
+      const { word, options, correctOption, bgColor, score, lastScoreReset } = data;
       this.score = score;
       let now = new Date();
-      this.lastDate = isValidDate(lastDate) ? lastDate : new Date();
-      // now.setDate(now.getDate()+1);
-      console.log("Last date", this.lastDate);
+      const lastDate = new Date(lastScoreReset);
+      console.log("Last date", new Date(lastScoreReset));
       console.log("Now date", now);
-      // now = new Date();
-      if (!isSameDay(this.lastDate, now)) {
+      if (!isSameDay(lastDate, now) || typeof lastDate === 'Invalid Date') {
         this.resetScore();
       }
       if (word != null && options != null && correctOption != null) {
@@ -104,6 +100,16 @@ export default {
   },
   mounted() {
     this.setBgColor();
+    window.setDate = (date) => {
+      chrome.storage.sync.set(
+        {
+          lastScoreReset: date
+        },
+        () => {
+          console.log("Score reset in storage");
+        }
+      );      
+    }
   },
   methods: {
     setBgColor() {
@@ -166,11 +172,9 @@ export default {
     },
     updateScore() {
       this.score += 1;
-      const lastDate = new Date();
       chrome.storage.sync.set(
         {
-          score: this.score,
-          lastDate
+          score: this.score
         },
         () => {
           console.log("Score updated in storage");
@@ -178,12 +182,12 @@ export default {
       );
     },
     resetScore() {
-      const lastDate = new Date();
+      const lastScoreReset = new Date();
       this.score = 0;
       chrome.storage.sync.set(
         {
           score: 0,
-          lastDate
+          lastScoreReset: lastScoreReset.toString()
         },
         () => {
           console.log("Score reset in storage");
