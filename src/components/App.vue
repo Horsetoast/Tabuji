@@ -22,8 +22,8 @@
                 :key="i"
                 class="options-item"
                 :class="{
-            'answered-wrong': guessed[i] && i !== correctOption,
-            'answered-correct': guessed[i] && i === correctOption
+            'answered-wrong': guessedOptions[i] && i !== correctOption,
+            'answered-correct': guessedOptions[i] && i === correctOption
           }"
                 @click="chooseAnswer(i)"
               >
@@ -46,11 +46,12 @@ import {
   getRandomWord,
   getRandomWordMeaning,
   getWordQuiz,
-  isSameDay,
+  isDifferentDay,
   isValidDate
 } from "../helpers.js";
 import IOdometer from "vue-odometer";
 import "odometer/themes/odometer-theme-default.css";
+
 
 export default {
   components: {
@@ -58,6 +59,7 @@ export default {
   },
   data() {
     return {
+      // ["no_word", "word_ready", "answered_correct", "answered_wrong"]
       status: "no_word",
       bgColor: null,
       score: null,
@@ -69,51 +71,41 @@ export default {
       },
       options: [],
       correctOption: null,
-      guessed: {}
+      guessedOptions: {}
     };
-  },
-  watch: {
-    bgColor: "setBgColor"
   },
   created() {
     chrome.storage.sync.get(null, data => {
-      console.log("Loaded", data);
       const { word, options, correctOption, bgColor, score, lastScoreReset } = data;
-      this.score = score;
-      let now = new Date();
+      console.log('Tabuji:: Retrieved from storage', data);
+      
+      const now = new Date();
       const lastDate = new Date(lastScoreReset);
-      console.log("Last date", new Date(lastScoreReset));
-      console.log("Now date", now);
-      if (!isSameDay(lastDate, now) || typeof lastDate === 'Invalid Date') {
+      console.log("Tabuji:: Date now", now);
+      console.log("Tabuji:: Last correct date", lastDate);
+
+      const isInvalidDate = typeof lastDate === 'Invalid Date';
+      if (isDifferentDay(lastDate, now) || isInvalidDate) {
         this.resetScore();
       }
+
       if (word != null && options != null && correctOption != null) {
         this.word = word;
         this.options = options;
         this.correctOption = correctOption;
-        this.bgColor = bgColor;
+        // this.bgColor = bgColor;
+        console.log('seettng1', bgColor);
+        this.setBgColor(bgColor);
         this.status = "word_ready";
+        this.score = score;
       } else {
         this.nextQuiz();
       }
     });
   },
-  mounted() {
-    this.setBgColor();
-    window.setDate = (date) => {
-      chrome.storage.sync.set(
-        {
-          lastScoreReset: date
-        },
-        () => {
-          console.log("Score reset in storage");
-        }
-      );      
-    }
-  },
   methods: {
-    setBgColor() {
-      document.body.style["backgroundColor"] = this.bgColor;
+    setBgColor(bgColor) {
+      document.body.style["backgroundColor"] = bgColor;
     },
     chooseAnswer(index) {
       if (this.status === "answered_correct") {
@@ -127,22 +119,25 @@ export default {
       } else {
         this.status = "answered_wrong";
       }
-      this.$set(this.guessed, index, true);
+      this.$set(this.guessedOptions, index, true);
     },
     nextQuiz() {
       const word = getRandomWord();
-      console.log("word", word);
       this.word = word;
       const data = getWordQuiz(word);
       this.options = data.options;
       this.correctOption = data.correctOption;
-      this.bgColor = getRandomColor();
+      this.status = "word_ready";
+      this.guessedOptions = {};
+      const bgColor = getRandomColor();
+      this.setBgColor(bgColor);
+      this.initBgAnimation();
+      this.saveQuiz();
+    },
+    initBgAnimation () {
       if (!document.body.style["transition"]) {
         document.body.style["transition"] = "background-color 1s ease-in";
       }
-      this.status = "word_ready";
-      this.guessed = {};
-      this.saveQuiz();
     },
     clearStoredQuiz() {
       chrome.storage.sync.set(
@@ -153,7 +148,7 @@ export default {
           bgColor: null
         },
         () => {
-          console.log("Quiz cleared from storage");
+          console.log("Tabuji:: Quiz cleared from storage");
         }
       );
     },
@@ -163,10 +158,10 @@ export default {
           word: this.word,
           options: this.options,
           correctOption: this.correctOption,
-          bgColor: this.bgColor
+          bgColor: document.body.style["backgroundColor"]
         },
         () => {
-          console.log("Quiz saved to storage");
+          console.log("Tabuji:: Quiz saved to storage");
         }
       );
     },
@@ -177,7 +172,7 @@ export default {
           score: this.score
         },
         () => {
-          console.log("Score updated in storage");
+          console.log("Tabuji:: Score updated in storage");
         }
       );
     },
@@ -190,7 +185,7 @@ export default {
           lastScoreReset: lastScoreReset.toString()
         },
         () => {
-          console.log("Score reset in storage");
+          console.log("Tabuji:: Score reset in storage");
         }
       );
     }
