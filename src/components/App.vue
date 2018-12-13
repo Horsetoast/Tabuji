@@ -93,11 +93,9 @@ export default {
         this.word = word;
         this.options = options;
         this.correctOption = correctOption;
-        // this.bgColor = bgColor;
-        console.log('seettng1', bgColor);
-        this.setBgColor(bgColor);
         this.status = "word_ready";
         this.score = score;
+        this.setBgColor(bgColor);
       } else {
         this.nextQuiz();
       }

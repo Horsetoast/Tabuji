@@ -4,7 +4,6 @@ import wordsList from '../data/words1000.json';
 export const getRandomColor = () => {
   // from 80 to 360 because yellow is ugly
   const hue = Math.floor(Math.random() * 280) + 80;
-  console.log(hue);
   return `hsl(${hue}, 50%, 25%)`;
 };
 
