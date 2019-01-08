@@ -1,5 +1,13 @@
 import wordsList from '../data/words1000.json';
 
+export const shuffle = (a) => {
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+};
+
 /* eslint-disable */
 export const getRandomColor = () => {
   // from 80 to 360 because yellow is ugly
@@ -25,7 +33,6 @@ export const getWordQuiz = (word, optionsCount = 4) => {
   const correctMeaning = getRandomWordMeaning(word);
   options.push(correctMeaning);
 
-
   for (let i = 0; i < (optionsCount - 1); i++) {
     let word = getRandomWord();
     let meaning = getRandomWordMeaning(word);
@@ -36,9 +43,13 @@ export const getWordQuiz = (word, optionsCount = 4) => {
     options.push(meaning)
   }
 
+  const shuffledOptions = shuffle(options)
+  console.log('shuffled', shuffledOptions)
+  const correctOption = shuffledOptions.indexOf(correctMeaning);
+
   return {
-    options,
-    correctOption: 0
+    options: shuffledOptions,
+    correctOption: correctOption
   };
 }
 
