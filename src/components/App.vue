@@ -1,5 +1,5 @@
 <template>
-  <div id="wrapper">
+  <div id="wrapper" ref="wrapper" :style="{'backgroundColor': bgColor}">
     <IOdometer v-if="score != null" id="score" :value="score" :duration="500"/>
     <transition name="fade" appear mode="out-in">
       <div id="container" v-if="word && options.length" :key="word.trad">
@@ -11,9 +11,9 @@
           <div id="quiz">
             <div id="quiz-header">
               <transition name="fade" mode="out-in">
-                <p v-if="status === 'word_ready'" key="p1">Choose the correct meaning</p>
-                <p v-else-if="status === 'answered_wrong'" key="p2">Nopes. Try again?</p>
-                <p v-else-if="status === 'answered_correct'" key="p3">Correct!</p>
+                <p v-if="status === states.WORD_READY" key="p1">Choose the correct meaning</p>
+                <p v-else-if="status === states.ANSWERED_WRONG" key="p2">Nopes. Try again?</p>
+                <p v-else-if="status === states.ANSWERED_CORRECT" key="p3">Correct!</p>
               </transition>
             </div>
             <ul id="quiz-options">
@@ -31,7 +31,7 @@
               </li>
             </ul>
           </div>
-          <div id="next-word" @click="nextQuiz" v-show="status === 'answered_correct'">
+          <div id="next-word" @click="createQuestion" v-show="status === states.ANSWERED_CORRECT">
             <span>Next word?</span>
           </div>
         </div>
@@ -52,6 +52,11 @@ import {
 import IOdometer from "vue-odometer";
 import "odometer/themes/odometer-theme-default.css";
 
+const states = {
+  WORD_READY: "WORD_READY",
+  ANSWERED_CORRECT: "ANSWERED_CORRECT",
+  ANSWERED_WRONG: "ANSWERED_WRONG"
+};
 
 export default {
   components: {
@@ -59,8 +64,8 @@ export default {
   },
   data() {
     return {
-      // ["no_word", "word_ready", "answered_correct", "answered_wrong"]
-      status: "no_word",
+      states,
+      status: states.WORD_READY,
       bgColor: null,
       score: null,
       word: {
@@ -76,92 +81,62 @@ export default {
   },
   created() {
     chrome.storage.sync.get(null, data => {
-      const { word, options, correctOption, bgColor, score, lastScoreReset } = data;
-      console.log('Tabuji:: Retrieved from storage', data);
-      
+      const {
+        score,
+        lastScoreReset
+      } = data;
+      this.score = score;
+      console.log("Tabuji:: Retrieved from storage", data);
+
+      /**
+      Reset score every day
+      */
       const now = new Date();
       const lastDate = new Date(lastScoreReset);
       console.log("Tabuji:: Date now", now);
       console.log("Tabuji:: Last correct date", lastDate);
 
-      const isInvalidDate = typeof lastDate === 'Invalid Date';
+      const isInvalidDate = typeof lastDate === "Invalid Date";
       if (isDifferentDay(lastDate, now) || isInvalidDate) {
         this.resetScore();
       }
 
-      if (word != null && options != null && correctOption != null) {
-        this.word = word;
-        this.options = options;
-        this.correctOption = correctOption;
-        this.status = "word_ready";
-        this.score = score;
-        this.setBgColor(bgColor);
-      } else {
-        this.nextQuiz();
-      }
+      this.createQuestion();
     });
   },
+  mounted() {
+    setTimeout(() => this.initBackgroundTransition(), 100)
+  },
   methods: {
-    setBgColor(bgColor) {
-      document.body.style["backgroundColor"] = bgColor;
-    },
     chooseAnswer(index) {
-      if (this.status === "answered_correct") {
+      if (this.status === states.ANSWERED_CORRECT) {
         return;
       }
 
       if (index === this.correctOption) {
-        this.status = "answered_correct";
-        this.clearStoredQuiz();
+        this.status = states.ANSWERED_CORRECT;
         this.updateScore();
       } else {
-        this.status = "answered_wrong";
+        this.status = states.ANSWERED_WRONG;
       }
       this.$set(this.guessedOptions, index, true);
     },
-    nextQuiz() {
+    createQuestion() {
       const word = getRandomWord();
-      this.word = word;
       const data = getWordQuiz(word);
+      const color = getRandomColor();
+      this.word = word;
       this.options = data.options;
       this.correctOption = data.correctOption;
-      this.status = "word_ready";
+      this.status = states.WORD_READY;
       this.guessedOptions = {};
-      const bgColor = getRandomColor();
-      this.setBgColor(bgColor);
-      this.initBgAnimation();
-      this.saveQuiz();
+      this.bgColor = color;
     },
-    initBgAnimation () {
-      if (!document.body.style["transition"]) {
-        document.body.style["transition"] = "background-color 1s ease-in";
+    initBackgroundTransition() {
+      const wrapper = this.$refs["wrapper"];
+      if (wrapper && !wrapper.style["transition"]) {
+        wrapper.style["transition"] = "background-color 1s ease-in";
       }
-    },
-    clearStoredQuiz() {
-      chrome.storage.sync.set(
-        {
-          word: null,
-          options: [],
-          correctOption: null,
-          bgColor: null
-        },
-        () => {
-          console.log("Tabuji:: Quiz cleared from storage");
-        }
-      );
-    },
-    saveQuiz() {
-      chrome.storage.sync.set(
-        {
-          word: this.word,
-          options: this.options,
-          correctOption: this.correctOption,
-          bgColor: document.body.style["backgroundColor"]
-        },
-        () => {
-          console.log("Tabuji:: Quiz saved to storage");
-        }
-      );
     },
     updateScore() {
       this.score += 1;
