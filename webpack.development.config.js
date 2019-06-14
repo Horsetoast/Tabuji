@@ -3,7 +3,9 @@ const { VueLoaderPlugin } = require('vue-loader');
 
 module.exports = {
   watch: true,
-  mode: 'development',
+  // A chrome extension is not allowed to use unsafe-eval, or eval
+  // Therefore mode has to be set to production
+  mode: 'production',
   entry: './src/main.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
