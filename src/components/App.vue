@@ -45,7 +45,7 @@ import {
   getRandomColor,
   getRandomWord,
   getRandomWordMeaning,
-  getWordQuiz,
+  makeWordQuestion,
   isDifferentDay,
   isValidDate
 } from "../helpers.js";
@@ -86,15 +86,12 @@ export default {
         lastScoreReset
       } = data;
       this.score = score;
-      console.log("Tabuji:: Retrieved from storage", data);
 
       /**
       Reset score every day
       */
       const now = new Date();
       const lastDate = new Date(lastScoreReset);
-      console.log("Tabuji:: Date now", now);
-      console.log("Tabuji:: Last correct date", lastDate);
 
       const isInvalidDate = typeof lastDate === "Invalid Date";
       if (isDifferentDay(lastDate, now) || isInvalidDate) {
@@ -123,7 +120,7 @@ export default {
     },
     createQuestion() {
       const word = getRandomWord();
-      const data = getWordQuiz(word);
+      const data = makeWordQuestion(word);
       const color = getRandomColor();
       this.word = word;
       this.options = data.options;
@@ -143,9 +140,6 @@ export default {
       chrome.storage.sync.set(
         {
           score: this.score
-        },
-        () => {
-          console.log("Tabuji:: Score updated in storage");
         }
       );
     },
@@ -156,9 +150,6 @@ export default {
         {
           score: 0,
           lastScoreReset: lastScoreReset.toString()
-        },
-        () => {
-          console.log("Tabuji:: Score reset in storage");
         }
       );
     }

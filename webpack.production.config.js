@@ -1,5 +1,6 @@
 const path = require('path');
 const { VueLoaderPlugin } = require('vue-loader');
+const CopyPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   mode: 'production',
@@ -39,5 +40,11 @@ module.exports = {
   },
   plugins: [
     new VueLoaderPlugin(),
+    new CopyPlugin([
+      {
+        from: './manifest.json',
+        to: path.resolve(__dirname, 'dist/manifest.json'),
+      },
+    ]),
   ],
 };
