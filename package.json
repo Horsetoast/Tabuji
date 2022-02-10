@@ -10,7 +10,7 @@
     "css-loader": "^1.0.1",
     "eslint": "^4.19.1",
     "jsonfile": "^5.0.0",
-    "node-sass": "^4.10.0",
+    "node-sass": "^7.0.0",
     "odometer": "^0.4.8",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
